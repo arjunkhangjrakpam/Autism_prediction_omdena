@@ -1,0 +1,332 @@
+participant,sentence
+MOT,it's Aneesh .
+MOT,here .
+MOT,hi Aneesh .
+MOT,&bu Aneesh can't hear you &=gasps .
+MOT,you hafta talk to Aneesh .
+MOT,hello .
+CHI,hello .
+MOT,how are you .
+CHI,how are you .
+MOT,it's Aneesh .
+MOT,here's Aneesh .
+CHI,hello .
+MOT,hello &=laughs .
+CHI,bye .
+MOT,oh .
+CHI,&=sings .
+MOT,Fred you wanna have tea ?
+MOT,to have the tea_party .
+MOT,"you gotta have, tea ."
+CHI,&=sings .
+MOT,goodbye .
+CHI,I want .
+MOT,what do you want ?
+CHI,I want .
+MOT,tea@si tea@si rosie@si tea@si .
+MOT,here's your cup .
+MOT,to@si have@si a@si tea_party@si &=sips .
+MOT,you@si gotta@si have@si teacups@si .
+MOT,to@si have@si a@si tea_party@si .
+MOT,"you@si gotta@si have@si, saucers@si ."
+MOT,to@si have@si a@si tea_party@si .
+MOT,"you@si gotta@si have@si, oh don't eat ."
+MOT,you@si gotta@si have@si teaspoons@si .
+MOT,tea@si [x 2] rosie@si tea@si .
+MOT,tea@si [x 2] like +...
+CHI,++ Dorothy .
+MOT,Dorothy !
+MOT,tea@si [x 2] rosie@si tea@si .
+MOT,drink your tea &=sips .
+MOT,drinking .
+MOT,here drink .
+MOT,drink tea .
+MOT,don't put it in your mouth though just &=sips .
+MOT,oh maybe baby wants to drink tea .
+CHI,xxx .
+CHI,Mommy stop singing .
+MOT,Mommy stop singing ?
+MOT,okay Mommy stop singing .
+MOT,maybe baby wants to drink tea .
+MOT,no ?
+MOT,does baby want tea ?
+MOT,tea ?
+MOT,&=sips .
+MOT,oh maybe baby wants to eat .
+MOT,does baby wanna eat ?
+MOT,baby .
+CHI,xxx Mommy &sm .
+CHI,Mommy stop singing .
+MOT,okay I'm gonna stop singing but we hafta stay here .
+CHI,&=yells .
+MOT,yeah come Fred help Mommy .
+CHI,&=vocalizes .
+MOT,oh I'm gonna get you .
+MOT,where's the teaspoon ?
+MOT,teaspoon [x 2] comes here .
+MOT,"&=grunts &=growls, oh don't eat ."
+MOT,don't eat the teaspoon .
+MOT,yuck .
+MOT,the teaspoon's yucky .
+MOT,ye(a)h it's yucky .
+MOT,the teaspoon is yucky .
+MOT,baby wants to go on the truck .
+MOT,baby .
+MOT,vroom@o [x 2] beep@o &eh .
+MOT,uhoh no <wait for me> [x 2] .
+MOT,wait for me Fred come here .
+MOT,this is the station .
+MOT,uhoh [x 3] ouch [x 3] we hafta drive here .
+MOT,look the road comes here .
+MOT,we hafta come stop at the house .
+MOT,here's the gate .
+MOT,we drive here .
+MOT,there's the road .
+MOT,we drive only here Fred .
+MOT,no [x 3] don't eat .
+MOT,there's nothing there .
+MOT,don't put it in your mouth it's dirty .
+MOT,it's not your teaspoon .
+MOT,oops &=gasps .
+CHI,xxx .
+MOT,we broke the cup &=laughs .
+MOT,oh dear !
+MOT,okay never_mind &=laughs .
+MOT,here &=laughs .
+MOT,there's your tea .
+CHI,tea .
+MOT,help me .
+MOT,Mommy's building a tower .
+CHI,xxx .
+MOT,hm: ?
+CHI,xxx .
+MOT,uhoh !
+CHI,xxx &t <touch your foot> [x 2] .
+MOT,foot .
+CHI,touch your foot .
+MOT,&tutyfoot .
+CHI,touch &y .
+MOT,what's that ?
+CHI,touch your &ips .
+MOT,oh touch your hips ?
+MOT,who should touch their hips ?
+MOT,look .
+MOT,doll touch her hips .
+MOT,"touch your, hips ."
+MOT,touch your .
+MOT,tell the doll .
+MOT,touch your +...
+MOT,mouth .
+MOT,touch your +...
+CHI,++ mouth .
+MOT,touch your +...
+CHI,++ cheek .
+MOT,but you're not looking .
+MOT,what else should Mommy touch ?
+MOT,"touch your, eyes ."
+MOT,touch your eyes .
+CHI,touch your neck .
+MOT,you touch .
+MOT,touch neck .
+MOT,touch your feet .
+MOT,touch feet .
+MOT,touch your feet .
+CHI,xxx .
+MOT,feet .
+MOT,"touch your, head ."
+MOT,touch your +...
+CHI,++ shoulder .
+MOT,"shoulders, okay ."
+MOT,touch your +...
+CHI,++ feet .
+MOT,"feet, are you touching feet ?"
+MOT,"touch your, touch dolly ."
+MOT,touch dolly's stomach .
+CHI,&to &ge &ma .
+MOT,dolly's stomach ?
+CHI,&=sings .
+CHI,touch your xxx .
+MOT,shoulders ?
+MOT,what about thumb ?
+MOT,touch dolly's thumb .
+CHI,&neef .
+MOT,"knees, yes that's knees ."
+MOT,but touch dolly's thumb .
+CHI,knee .
+CHI,eyes .
+MOT,eyes .
+CHI,eye .
+MOT,eyes .
+CHI,eyes .
+MOT,"eyes, ye(a)h ."
+CHI,ears .
+MOT,ears .
+CHI,mouth .
+MOT,ye(a)h mouth .
+CHI,nose .
+MOT,nose .
+CHI,cheeks .
+MOT,cheeks like here .
+MOT,cheeks .
+CHI,thumb .
+MOT,"thumb, ye(a)h thumb ."
+CHI,&-um .
+MOT,arm .
+CHI,arm .
+MOT,okay arm .
+CHI,teeth .
+MOT,teeth .
+MOT,dolly doesn't have teeth though .
+MOT,are there teeth there ?
+MOT,&=gasps are there teeth ?
+MOT,no .
+CHI,tongue .
+MOT,tongue .
+MOT,does dolly have a tongue ?
+MOT,look .
+MOT,"dolly wants to drink milk, with the bottle ."
+MOT,doesn't have a tongue .
+MOT,I don't know if that fits there .
+MOT,oh !
+MOT,it's stuck .
+MOT,it stuck .
+MOT,that's for drinking milk .
+CHI,head .
+MOT,head .
+CHI,shoulders .
+MOT,shoulders .
+CHI,touch her head .
+MOT,who ?
+MOT,touch who's head ?
+MOT,"touch your head or &m, touch Fred's head or Mommy's head ?"
+CHI,head .
+MOT,dolly's &t head ?
+MOT,okay .
+CHI,touch her shoulders .
+CHI,touch your foot .
+MOT,foot ?
+MOT,there's Fred's foot .
+CHI,xxx .
+CHI,hair .
+MOT,dolly's tired .
+MOT,dolly wants to sleep .
+MOT,dolly's tired .
+MOT,<pants on> [x 2] dolly .
+MOT,time to sleep .
+CHI,xxx .
+MOT,good_night .
+MOT,dolly's tired .
+MOT,good_night dolly .
+CHI,no [x 2] xxx .
+MOT,but dolly's tired .
+MOT,dolly wants to sleep .
+MOT,uhoh .
+MOT,where you going ?
+MOT,where you guys going ?
+MOT,time to sleep .
+MOT,time to got to bed .
+MOT,good_night dolly .
+MOT,it's time to go to bed .
+MOT,oh no [x 2] you're waking dolly up dolly's sleeping .
+MOT,good_night dolly .
+MOT,time to go to bed .
+MOT,"it's time for &e, no don't eat that ."
+MOT,time for Fred to make a train .
+MOT,choo_choo train .
+CHI,xxx .
+CHI,xxx .
+MOT,oh [x 2] no [x 3] <don't touch> [x 2] .
+MOT,no touching .
+MOT,don't touch .
+MOT,come [x 3] .
+MOT,don't touch that one .
+CHI,&=hums .
+MOT,oh no we don't touch .
+MOT,we don't touch that one .
+MOT,&=gasps oh .
+MOT,look Fred choo@o [x 2] chuga@o [x 6] .
+MOT,choo@o [x 2] chuga@o [x 4] choo@o [x 2] .
+CHI,&=hums .
+MOT,stop !
+MOT,where do we go ?
+MOT,what's the train gonna say ?
+CHI,&=hums .
+MOT,&=hums .
+MOT,there's our train .
+CHI,&=laughs &aka !
+MOT,hm: ?
+CHI,&aka .
+CHI,&=sings .
+MOT,there's a train .
+MOT,where's the train going ?
+CHI,&ani .
+CHI,xxx .
+MOT,hm: ?
+CHI,xxx .
+MOT,you do what ?
+CHI,&=hums .
+MOT,there .
+CHI,&whachou xxx .
+CHI,&=hums .
+CHI,&wachou xxx .
+MOT,what ?
+MOT,there's a train .
+CHI,&=hums .
+CHI,&tipe .
+MOT,superb the train's going choo@o [x 2] .
+MOT,ah !
+MOT,what happened ?
+CHI,&k .
+MOT,what happened ?
+MOT,what happened ?
+CHI,xxx .
+MOT,okay Fred .
+MOT,now@si it's@si time@si to@si tidy@si up@si .
+MOT,tidy@si up@si .
+MOT,tidy@si up@si .
+MOT,come .
+MOT,tidy up .
+MOT,Fred .
+MOT,time to tidy up .
+MOT,clean up .
+MOT,<clean up> [x 2] .
+MOT,clean up .
+MOT,come .
+CHI,xxx .
+MOT,it's time to clean up .
+MOT,clean up .
+MOT,clean up .
+MOT,clean up .
+MOT,clean up .
+MOT,clean up Fred <clean up> [x 2] .
+CHI,xxx .
+MOT,clean up .
+CHI,xxx .
+MOT,clean up .
+MOT,now@si it's@si time@si to@si tidy@si up@si .
+MOT,tidy@si up@si .
+MOT,tidy@si up@si .
+CHI,ah .
+MOT,now@si it's@si time@si to@si +...
+CHI,&sheba .
+MOT,tidy@si up@si and@si +...
+MOT,put +/.
+CHI,&che [x 2] .
+MOT,Fred .
+MOT,we're tidying up it's time to clean up .
+MOT,it's not time to play drum .
+MOT,okay .
+CHI,xxx .
+MOT,behind you .
+MOT,can you bring the lid ?
+MOT,close .
+MOT,okay .
+MOT,"can you, can you give it to Healy ?"
+MOT,pick it up .
+MOT,go give Healy .
+MOT,go give Healy .
+MOT,<can you> [x 2] carry it ?
+MOT,here .
+MOT,go .
+MOT,give Healy .
+MOT,and don't play with that .

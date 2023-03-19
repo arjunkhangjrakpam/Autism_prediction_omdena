@@ -1,0 +1,771 @@
+participant,sentence
+INV,I see a car .
+CHI,0 .
+INV,I see your car .
+INV,you found a car .
+INV,Chi .
+INV,where's the house ?
+INV,where's the house ?
+INV,where's the house for the car ?
+CHI,0 . [+ trn]
+INV,&=gasp . [+ trn]
+INV,is it in the closet ?
+CHI,0 .
+INV,in the closet .
+INV,where is it ?
+INV,where is it ?
+CHI,0 .
+INV,is this the house ?
+INV,look .
+INV,Chi look .
+INV,look .
+INV,0 .
+INV,what did you find ?
+CHI,0 .
+INV,choo choo .
+INV,you found a train .
+INV,look .
+INV,I got the house .
+CHI,0 .
+INV,choo choo .
+INV,get the house .
+CHI,0 .
+INV,take it to the table .
+CHI,0 .
+INV,put it on the table .
+CHI,0 .
+INV,on the table .
+INV,can you shut the door ?
+INV,Chi shut the door .
+CHI,0 .
+INV,we've gotta shut the closet door .
+INV,thank you .
+CHI,0 .
+INV,0 .
+CHI,yyy .
+INV,choo choo .
+INV,open the house .
+CHI,0 .
+INV,oop .
+INV,&haha it won't fit in the garage .
+CHI,xxx . [+ trn]
+INV,it's too big .
+INV,it's too big .
+INV,can you open the house ?
+CHI,xxx . [+ trn]
+INV,open the house .
+INV,open .
+CHI,<choo choo> [?] .
+INV,here .
+INV,put her on the train .
+CHI,0 .
+INV,you gonna put it up ?
+CHI,0 .
+INV,there's the piano .
+INV,here's a five .
+CHI,five .
+INV,six .
+CHI,six .
+INV,seven .
+CHI,seven .
+CHI,yyy .
+INV,four .
+CHI,four .
+CHI,0 .
+INV,five .
+CHI,five .
+INV,you're pushing the buttons .
+INV,&=gasp . [+ trn]
+INV,push the button .
+INV,&=gasp . [+ trn]
+INV,push the button .
+INV,are you making music ?
+INV,let the lady make the music .
+INV,&=gasp . [+ trn]
+INV,she's playing the piano .
+CHI,0 .
+INV,gonna put her in the car ?
+CHI,yyy .
+INV,bye bye .
+INV,you put her in the garage .
+CHI,xxx .
+INV,you put her in the garage .
+CHI,xxx .
+INV,shut the door .
+CHI,xxx .
+INV,shut the door .
+INV,put her on the train .
+INV,&=gasp . [+ trn]
+CHI,bye bye .
+INV,bye bye lady .
+INV,put her on top .
+CHI,0 .
+INV,&-uh oh .
+INV,they fell down .
+INV,&=gasp . [+ trn]
+CHI,yyy .
+INV,bye bye .
+INV,pick (th)em up .
+CHI,0 .
+INV,pick them up .
+CHI,0 .
+INV,thank you .
+INV,you picked (th)em up .
+CHI,0 .
+CHI,yyy .
+INV,choo choo .
+CHI,0 .
+INV,&=gasp . [+ trn]
+INV,I've got a girl .
+INV,you wanna man ?
+CHI,0 .
+INV,here's a man .
+INV,can you make her play the piano ?
+INV,0 .
+INV,&=gasp . [+ trn]
+INV,play the piano .
+INV,&=gasp . [+ trn]
+INV,on the train .
+CHI,0 .
+INV,&=gasp &-uh oh .
+CHI,&-uh oh .
+INV,&-uh oh .
+INV,they fell down .
+INV,&=gasp &-uh oh .
+INV,they fell down .
+CHI,&-uh oh .
+INV,&-uh oh .
+INV,crash .
+INV,they fell off the table .
+CHI,choo choo .
+INV,choo choo .
+CHI,0 .
+INV,can you pick (th)em up ?
+INV,pick (th)em up .
+CHI,xxx .
+INV,on the table .
+CHI,0 .
+INV,put it on the table .
+INV,let's make the train go .
+INV,ch_ch_ch@o .
+CHI,0 .
+INV,&-uh oh .
+INV,put (th)em on the table .
+CHI,0 .
+INV,oop .
+INV,dropped her .
+INV,here I'll help .
+INV,I'll help you .
+INV,on the table .
+CHI,0 .
+CHI,bye bye .
+INV,bye bye .
+INV,on the table .
+INV,are you lining them up ?
+INV,are you lining them up ?
+CHI,bye .
+INV,where are they going ?
+CHI,bye .
+CHI,0 .
+INV,you gonna take the car out ?
+CHI,bye .
+INV,bye bye lady .
+INV,you put her in the car .
+INV,in the car .
+INV,shut the door .
+INV,shut the door .
+INV,0 .
+INV,I found the table (.) and some chairs .
+CHI,yyy .
+INV,make (th)em crash .
+INV,ready ?
+INV,&=gasp . [+ trn]
+INV,crash .
+INV,she fell off .
+INV,&=gasp . [+ trn]
+INV,crash .
+INV,they crashed .
+CHI,yyy .
+INV,put her on the car .
+INV,I'm gonna put the car (.) on the train .
+INV,&=gasp . [+ trn]
+INV,it fell down .
+CHI,0 .
+INV,choo choo .
+INV,make it go .
+INV,make it go .
+INV,ch_ch_ch_ch_ch_ch_choo_choo@o .
+CHI,<ch_ch@o> [>] .
+INV,<ch_ch@o> [<] ch_ch_ch@o .
+INV,&=gasp . [+ trn]
+CHI,0 .
+INV,it won't fit in the garage .
+INV,it's too big .
+CHI,0 .
+INV,open the door .
+CHI,0 .
+INV,&=gasp it won't fit .
+INV,it's too big .
+INV,the train's too big .
+CHI,choo choo .
+INV,choo choo .
+INV,a cow .
+CHI,&mm .
+INV,moo@o .
+INV,that's right .
+INV,moo@o .
+INV,you put the cow on the table .
+CHI,xxx .
+INV,on the table .
+INV,Chi .
+INV,can you put the train in the box ?
+INV,put the train in the box .
+INV,in the box .
+INV,bye bye train .
+INV,let's put the people in the chair .
+CHI,0 .
+INV,oh are we going to put it all up now ?
+CHI,bye bye .
+INV,bye bye .
+CHI,bye bye .
+INV,bye bye people .
+INV,&=gasp . [+ trn]
+CHI,bye bye .
+INV,my turn .
+INV,bye bye man .
+INV,Chi's turn .
+CHI,bye bye .
+INV,bye bye cow .
+INV,my turn .
+INV,bye bye chair .
+CHI,0 .
+INV,Chi's turn .
+CHI,my turn [?] .
+INV,your turn .
+CHI,<bye bye> [>] .
+INV,<Exp's turn> [<] .
+INV,bye bye table .
+CHI,bye bye .
+INV,bye bye table .
+CHI,0 .
+INV,shut the house .
+INV,shut the house .
+INV,can you put it in the box ?
+CHI,0 .
+INV,let's put the house &=gasp in the box .
+INV,bye bye house .
+INV,&=gasp . [+ trn]
+INV,bye bye house .
+INV,put it in the closet ?
+CHI,0 .
+INV,put it up .
+INV,&-uh oh .
+INV,look .
+INV,where does the man go ?
+CHI,0 .
+INV,in the box .
+INV,how (a)bout this ?
+INV,where does the piano go ?
+CHI,0 .
+INV,&=gasp .
+INV,are you playing the music ?
+INV,you're playing .
+INV,put it in .
+INV,bye bye piano .
+CHI,0 .
+INV,bye bye .
+INV,let's put it in the closet .
+CHI,0 .
+INV,pick it up .
+INV,okay .
+INV,gotta open the door .
+CHI,0 .
+INV,open the door .
+CHI,0 .
+INV,put it in .
+INV,put it in .
+INV,wanna do the barn ?
+INV,wanna do the barn ?
+INV,let's get the barn out .
+INV,here you go .
+INV,here you go .
+INV,put it on the table .
+INV,go put it on the table .
+INV,now what'd you find ?
+INV,oh you wanna get those animals ?
+INV,&-uh oh .
+CHI,grroow@o .
+INV,grr@o .
+INV,it's a bear .
+CHI,0 .
+INV,on the table .
+CHI,grroow@o .
+INV,Chi can you shut the door ?
+INV,shut the door .
+CHI,xxx .
+INV,shut the door .
+INV,shut it .
+INV,very good .
+CHI,xxx .
+INV,can we take the barn out ?
+CHI,0 .
+INV,you've got the horse .
+INV,&=gasp roar .
+INV,there's the lion .
+INV,&=gasp . [+ trn]
+INV,there's the lion .
+CHI,&=laughs .
+INV,what sound does a lion make ?
+CHI,&=laughs .
+INV,does it roar ?
+CHI,xxx .
+INV,you found the lion .
+INV,here Chi .
+INV,<take the> [/] take the barn out_of the box .
+INV,take it out .
+CHI,xxx .
+INV,take it out .
+CHI,xxx .
+CHI,yyy .
+INV,take (th)em out .
+INV,I got the cow .
+INV,&=gasp . [+ trn]
+INV,roof roof roof roof@o .
+INV,got the doggie .
+CHI,yyy .
+INV,&=gasp . [+ trn]
+INV,moo@o .
+INV,I got the horse .
+INV,put the fence up .
+CHI,0 .
+INV,shut the door .
+INV,I've got the horse .
+CHI,xxx .
+INV,&=gasp there's the horse .
+CHI,xxx . [+ trn]
+INV,put the horse behind the fence .
+CHI,&mm .
+INV,moo@o .
+INV,there's the cow .
+CHI,&mm .
+INV,baa@o .
+INV,baa@o .
+CHI,&mm .
+INV,you don't want the sheep ?
+CHI,&mm .
+INV,neigh@o .
+INV,that's a horse .
+CHI,&mm .
+CHI,&mm .
+INV,neigh@o .
+INV,make him stand .
+CHI,&=laughs .
+CHI,&=laughs .
+INV,you got the +//.
+INV,&=gasp . [+ trn]
+INV,is the lion getting them ?
+INV,oh no !
+CHI,&=laughs .
+INV,oh no !
+CHI,0 .
+INV,the lion ate (th)em !
+CHI,xxx .
+INV,bad lion !
+CHI,xxx .
+INV,here comes the bear .
+INV,here comes the bear .
+INV,bear's gonna get the lion .
+INV,bear's gonna get the lion .
+INV,&=gasp I'm getting the lion .
+INV,grrr@o .
+CHI,xxx . [+ trn]
+INV,roof roof roof roof roof roof@o .
+CHI,xxx . [+ trn]
+INV,roof roof@o .
+CHI,xxx . [+ trn]
+INV,put the fence up .
+CHI,xxx .
+CHI,&=laughs .
+INV,here lets put the lion +//.
+INV,can I see the lion ?
+INV,put the lion down .
+INV,&=gasp . [+ trn]
+INV,I'm gonna put the lady +...
+CHI,xxx .
+INV,make him stand .
+INV,&=gasp can he stand ?
+CHI,xxx .
+INV,&=gasp . [+ trn]
+CHI,xxx .
+INV,got the horse .
+CHI,xxx .
+INV,put the horse up .
+INV,can I put the lady on the horse ?
+INV,&=gasp . [+ trn]
+INV,dee_dee_da_dee@si .
+INV,see the box ?
+CHI,xxx .
+INV,I found a shoe .
+INV,I'm gonna put the shoe &=gasp on my hand .
+CHI,0 .
+INV,gonna open the box ?
+CHI,0 .
+INV,apple .
+INV,xxx . [+ trn]
+INV,I'm eating the apple .
+CHI,xxx . [+ trn]
+CHI,xxx . [+ trn]
+INV,xxx . [+ trn]
+INV,eatin(g) the apple .
+INV,we're eating the apple .
+CHI,0 .
+INV,&=gasp you're brushing your hair .
+INV,brush your hair .
+INV,can you brush my hair ?
+CHI,0 .
+INV,Chi .
+INV,brush my hair .
+INV,you found the yyy .
+INV,brush my hair .
+INV,look .
+INV,&=gasp brush my hair .
+INV,&=gasp brush it .
+INV,it needs brushing .
+INV,brush my hair .
+CHI,0 .
+INV,&-uh oh .
+CHI,0 .
+INV,you're brushing your hair .
+INV,&=gasp . [+ trn]
+INV,I found a cup .
+INV,xxx . [+ trn]
+INV,I'm drinking .
+INV,xxx . [+ trn]
+INV,&mm that's good .
+INV,do you want a cup ?
+INV,you wanna cup ?
+INV,&=gasp . [+ trn]
+INV,xxx . [+ trn]
+CHI,xxx . [+ trn]
+INV,ah .
+INV,yummy [>] .
+CHI,0 [<] . [+ trn]
+INV,&=gasp . [+ trn]
+INV,toast you .
+INV,toast you .
+INV,&=gasp . [+ trn]
+INV,xxx . [+ trn]
+CHI,xxx . [+ trn]
+INV,ah .
+CHI,ah .
+INV,&mm that's good .
+CHI,&mm .
+INV,in the box .
+CHI,0 .
+CHI,xxx . [+ trn]
+CHI,xxx . [+ trn]
+INV,h@l .
+CHI,h@l .
+INV,&=gasp . [+ trn]
+INV,i@l .
+CHI,i@l .
+INV,i@l .
+CHI,0 .
+INV,you found a pot .
+INV,put the lid on the pot .
+CHI,0 .
+INV,&=gasp . [+ trn]
+INV,you put the lid on .
+INV,you put the lid on .
+INV,Chi .
+INV,get a plate .
+INV,get a plate out_of the box .
+INV,you want a plate ?
+CHI,0 .
+INV,you want a plate ?
+CHI,0 .
+INV,I got a cup .
+CHI,yyy .
+CHI,i@l .
+INV,i@l .
+CHI,i@l .
+INV,i@l .
+INV,you found an i@l .
+CHI,0 .
+INV,&=gasp . [+ trn]
+INV,xxx . [+ trn]
+INV,is it good ?
+INV,apple .
+INV,eat the apple .
+CHI,0 .
+INV,xxx . [+ trn]
+INV,yummy .
+CHI,0 .
+INV,you found a tomato .
+CHI,0 .
+INV,that's a frying pan .
+INV,can I see ?
+INV,&=gasp . [+ trn]
+INV,yellow frying pan .
+INV,&=gasp . [+ trn]
+INV,I put the frying pan on your head .
+INV,it fell down .
+CHI,0 .
+INV,you put it on your eye .
+INV,&=gasp . [+ trn]
+INV,look .
+INV,look .
+INV,where's Chi ?
+INV,&=gasp . [+ trn]
+INV,there's Chi .
+INV,where's Chi ?
+INV,&=gasp . [+ trn]
+CHI,0 .
+INV,where's Chi ?
+INV,&=gasp . [+ trn]
+INV,there's Chi .
+CHI,yyy .
+INV,can you put <the shoe> [>] in the box ?
+CHI,xxx [<] .
+CHI,0 .
+INV,put the shoe in the box .
+CHI,a shoe .
+INV,there's another +/.
+CHI,a shoe .
+INV,a shoe .
+INV,that's right .
+INV,a red shoe .
+INV,a red shoe .
+INV,0 .
+INV,where does this [>] +/.
+CHI,i@l .
+INV,i@l .
+CHI,i@l .
+INV,you found an i@l .
+CHI,i@l .
+INV,yellow i@l .
+CHI,xxx .
+CHI,i@l .
+INV,i@l in the box .
+INV,can you put the plate in the box ?
+INV,in the box .
+CHI,0 .
+INV,you're putting that on your eye .
+CHI,yyy .
+INV,I've got a brush .
+INV,what do you do with a brush ?
+CHI,xxx .
+INV,are you hitting the pan ?
+INV,hit the pan .
+CHI,xxx .
+INV,&=gasp . [+ trn]
+INV,I'm making music .
+INV,bang bang bang .
+INV,&=gasp . [+ trn]
+INV,bang bang bang .
+INV,was that loud ?
+INV,put it in the box .
+CHI,no .
+INV,in the box .
+INV,put it in the box .
+INV,can you put the frying pan in the box ?
+INV,put it in .
+INV,bye bye .
+INV,bye bye pan .
+CHI,0 .
+INV,put the lid on .
+CHI,0 .
+INV,put the lid on .
+INV,let's put this piece in .
+CHI,xxx . [+ trn]
+INV,wanna help me ?
+CHI,xxx .
+INV,this doesn't go to the puzzle .
+INV,does it ?
+INV,this doesn't go in the puzzle .
+INV,that doesn't go in the puzzle .
+INV,let's put this wheel in .
+INV,put the eyes in .
+INV,put the eyes in .
+CHI,0 .
+INV,0 .
+INV,there you go .
+CHI,xxx .
+INV,put it in .
+INV,I found the driver .
+CHI,xxx .
+INV,put the driver in .
+CHI,xxx . [+ trn]
+INV,here's the <boy and girl> [>] .
+CHI,xxx [<] . [+ trn]
+INV,put (th)em in .
+CHI,xxx . [+ trn]
+INV,they're going in the bus .
+INV,they needta go in the bus too .
+CHI,xxx .
+INV,there's a puppy .
+INV,there's the puppy .
+INV,put (th)em in the bus .
+CHI,xxx .
+INV,0 .
+INV,put it in .
+CHI,yyy .
+CHI,yyy .
+CHI,no .
+CHI,yyy [>] .
+INV,<you want> [<] that piece ?
+CHI,no .
+CHI,0 .
+CHI,yyy .
+INV,maybe we're doing the puzzle wrong [=! laughs] .
+INV,let's try this one .
+CHI,0 .
+INV,oh no we've gotta leave (th)em in .
+INV,put (th)em in .
+INV,put (th)em in .
+CHI,yyy yyy yyy .
+INV,stop sign .
+INV,stop sign .
+CHI,xxx . [+ trn]
+INV,you want another puzzle ?
+INV,we've gotta finish this one .
+INV,let's finish this one .
+CHI,xxx . [+ trn]
+CHI,xxx . [+ trn]
+INV,you want another +//.
+INV,help me finish this one then we can get another puzzle .
+CHI,xxx . [+ trn]
+CHI,xxx . [+ trn]
+CHI,xxx . [+ trn]
+INV,okay .
+INV,you want the car puzzle ?
+INV,let's put this up .
+INV,come here .
+CHI,xxx . [+ trn]
+INV,we've got to finish this puzzle .
+INV,let's put the piece in .
+CHI,xxx . [+ trn]
+INV,put the piece in .
+CHI,xxx . [+ trn]
+INV,I'll do it .
+INV,okay .
+INV,let's put it up .
+INV,we'll get the car puzzle .
+INV,you want this one ?
+CHI,xxx . [+ trn]
+INV,<here you go> [>] .
+CHI,xxx [<] . [+ trn]
+INV,no not that one ?
+INV,what do you want ?
+CHI,xxx . [+ trn]
+INV,come here .
+INV,let's see .
+CHI,let's see .
+INV,let's see .
+INV,it's not that one .
+INV,roof roof .
+INV,there's a doggie .
+CHI,roof roof .
+INV,there's a doggie .
+CHI,0 .
+INV,you've got the ball .
+CHI,0 .
+INV,you dropped the ball .
+INV,ready ?
+INV,&=gasp . [+ trn]
+INV,I'm turning you over .
+INV,pick it up .
+INV,pick it up .
+INV,okay .
+INV,I don't know where the puzzle is .
+INV,where is it ?
+INV,I don't know where it is .
+INV,it's gone .
+INV,two .
+CHI,two .
+INV,one .
+CHI,one .
+INV,three .
+CHI,three .
+INV,three .
+INV,sit down .
+INV,sit down .
+INV,let's scoot you up .
+INV,scoot the chair up .
+INV,&=gasp . [+ trn]
+INV,horsie .
+INV,&=gasp . [+ trn]
+INV,doll .
+INV,balloons .
+INV,balloons .
+INV,&=gasp . [+ trn]
+INV,ball .
+INV,what's that ?
+CHI,0 .
+INV,bear .
+CHI,one .
+INV,one .
+CHI,one .
+INV,what's this ?
+CHI,one yyy .
+INV,horsie .
+CHI,yyy two .
+INV,two .
+INV,0 . [+ trn]
+CHI,two .
+CHI,two .
+INV,two .
+INV,what are these ?
+INV,bikes .
+CHI,bikes .
+INV,two bikes .
+CHI,two .
+INV,two bikes .
+CHI,0 .
+CHI,three .
+INV,what are these ?
+CHI,xxx . [+ trn]
+INV,boats .
+CHI,boats .
+INV,boats .
+CHI,yyy .
+CHI,yyy .
+INV,bears .
+CHI,bears .
+INV,four bears .
+CHI,0 .
+CHI,five .
+INV,what are these ?
+CHI,dolls .
+INV,dolls .
+INV,very good [>] .
+CHI,six [<] .
+INV,five dolls .
+CHI,six balls .
+INV,six balls .
+INV,six balls .
+CHI,0 .
+CHI,yyy yyy .
+INV,cars .
+INV,yellow car .
+CHI,eight .
+CHI,eight yyy [>] .
+INV,cans [<] .
+CHI,cans .
+INV,cans .
+CHI,0 .
+CHI,nine yyy [>] .
+INV,&=gasp [<] . [+ trn]
+INV,animals .
+CHI,nine .
+INV,dog .
+CHI,ten yyy .
+INV,six [?] balloons .
+CHI,xxx . [+ trn]
+INV,balloons .
+CHI,xxx . [+ trn]
+CHI,xxx . [+ trn]
+INV,look .
+INV,I see a pig .
+CHI,0 .
+INV,turn the page .

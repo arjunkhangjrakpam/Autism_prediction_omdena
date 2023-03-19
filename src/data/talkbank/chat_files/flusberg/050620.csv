@@ -1,0 +1,787 @@
+participant,sentence
+MOT,xxx .
+CHI,Cookie_Monster .
+MOT,"well , <can I put him in> [/?] can I give him a ride ?"
+CHI,ah [/?] no .
+MOT,where's the table and chairs ?
+MOT,what are you doing ?
+CHI,let's fix the bed .
+MOT,"oh , okay ."
+MOT,"oh , ."
+CHI,where Ernie xxx bed .
+MOT,where's Ernie going ?
+CHI,to bed .
+MOT,is he tired ?
+CHI,yeah .
+MOT,what's the matter ?
+CHI,Ernie .
+CHI,Cookie_Monster's going bed .
+CHI,"good_night , everybody ."
+MOT,"oh , good_night ."
+CHI,I'll see you tomorrow .
+MOT,what about Big_Bird ?
+CHI,Big_Bird I'll put you bed .
+MOT,where's Big_Bird ?
+MOT,"oh , it's time for Big_Bird to eat supper ."
+MOT,where is he ?
+CHI,"here , put and eat ."
+MOT,there he is .
+CHI,place to sit .
+MOT,let's do it right here .
+MOT,"oh , nice !"
+CHI,chair .
+CHI,it's time for breakfast .
+MOT,are you making breakfast ?
+MOT,"what are you doing , roger ?"
+CHI,setting a chair .
+CHI,Cookie_Monster is +/.
+CHI,it's time for ride a car .
+CHI,Ernie .
+MOT,what's Cookie_Monster doing ?
+CHI,sitting down .
+MOT,"oh , good ."
+MOT,he's a good boy .
+CHI,sit up and eat .
+MOT,you tell him .
+CHI,"sit up and eat or have time+out , Cookie_Monster ."
+MOT,he hasta eat all his dinner .
+CHI,"oh , get back here , Cookie_Monster !"
+CHI,"come back here , Cookie_Monster !"
+MOT,come back here .
+CHI,come back here .
+MOT,come on +/.
+MOT,"roger , come here please ."
+CHI,"come back here , Cookie_Monster ."
+CHI,come back here .
+CHI,sit down and eat .
+CHI,"you sit down and eat , or have time+out again ."
+MOT,"that's right , you tell him ."
+CHI,"Cookie_Monster , go time+out again ."
+MOT,oop [/?] .
+CHI,sit in against the wall .
+CHI,right here .
+CHI,don't behave again .
+CHI,"oh , Kathy ."
+MOT,sit down by mommy .
+MOT,"<hey , hey> [/?] turn around this way , this way ."
+MOT,that's it .
+MOT,that's nice sitting .
+MOT,fold your hands .
+MOT,good boy .
+MOT,that's nice sitting .
+CHI,"you wanna watch the video , Kathy and Ann ?"
+MOT,we can watch the video later .
+MOT,"roger , what did you do in school today ?"
+CHI,&-um [/?] ah [/?] Ann come into school .
+MOT,"ah [/?] that's right , Ann came to school ."
+MOT,"but what did you do with Jane , in school today ?"
+CHI,I do some work and [/?] for Jane .
+CHI,I have gum .
+MOT,you had gum ?
+CHI,"oh , give me hug ."
+MOT,"oh , okay ."
+MOT,did you do good work for Jane ?
+CHI,yeah .
+MOT,what kind of work did you do ?
+CHI,&-um [/?] marshmallow .
+MOT,did you do coloring ?
+CHI,yeah .
+MOT,you did ?
+CHI,"oh , ."
+MOT,roger .
+CHI,present !
+MOT,what do you say to Helen ?
+CHI,"thank you , Helen ."
+CHI,xxx open it .
+MOT,"turn around this way , and open it please ."
+CHI,I need help .
+MOT,"well , you try ."
+MOT,you try .
+MOT,turn it over +/.
+CHI,I need help .
+MOT,open right here .
+MOT,"no , you don't ."
+MOT,you can do it .
+CHI,xxx .
+CHI,open a present .
+CHI,look what I did .
+CHI,tiger .
+MOT,"give mama the paper , please ."
+CHI,elephants .
+MOT,give me the paper over there .
+MOT,"thank you , roger ."
+MOT,"oh , what is it ?"
+CHI,a animal .
+MOT,wow [/?] !
+MOT,what do you wanna do ?
+CHI,open .
+MOT,you needta ask me .
+CHI,can I open them ?
+MOT,wow [/?] and what's that ?
+CHI,a tree .
+MOT,and what's that ?
+CHI,I don't know .
+MOT,that's good .
+MOT,it's +/.
+MOT,ask me .
+CHI,I don't know .
+MOT,"well , ask me ."
+CHI,I don't know .
+MOT,say what's +/.
+CHI,what's that ?
+MOT,that's a palm tree .
+MOT,I bet you don't know what all these animals are .
+MOT,"oh , my !"
+CHI,"oh , my no !"
+CHI,animals .
+MOT,"roger , what's this ?"
+CHI,"oh , a giraffe ."
+MOT,that's right !
+MOT,"oh , what's that ?"
+CHI,a alligator .
+MOT,"well , here they are ."
+CHI,they bite me .
+MOT,"oh , tell them not to bite ."
+MOT,"don't bite , alligator ."
+MOT,what's that ?
+MOT,look at all the animals !
+CHI,"oh , !"
+MOT,my_goodness .
+CHI,there's the zoo .
+MOT,"it's a zoo , that's [% cc] right ."
+CHI,yeah .
+MOT,we can make a zoo .
+CHI,roar [/?] .
+MOT,what's he doing ?
+CHI,it [/?] Bert [/?] it bite me .
+MOT,"oh , ."
+MOT,"it's an elephant saying , tell Bert to go to bed ."
+CHI,"Bert , go to bed ."
+CHI,a [/?] go +/.
+CHI,take him to hospital .
+MOT,"oh , what happened ?"
+CHI,it bite me .
+MOT,"oh , no ."
+MOT,"okay , take him to the hospital in here ."
+MOT,there's a hospital right there .
+MOT,put him in a bed in the hospital .
+MOT,"oh , he's all better ."
+MOT,come play with them .
+CHI,trees .
+CHI,where the trees ?
+MOT,put the trees ?
+MOT,"here , put them like that ."
+MOT,stand them up .
+CHI,trees ?
+CHI,tree .
+CHI,tree .
+CHI,trees .
+MOT,"roger , do you know what this is ?"
+CHI,I don't know .
+MOT,it's a kangaroo .
+CHI,kangaroo [/?] kangaroo .
+CHI,don't fall down .
+MOT,oops [/?] .
+MOT,what's that ?
+CHI,I don't know .
+MOT,I don't either .
+CHI,that's a swan .
+MOT,"ah [/?] I think it might be a swan , you're right ."
+CHI,tree .
+MOT,"something like that , an ostrich maybe ."
+CHI,ah [/?] that's a tiger .
+MOT,what's a tiger say ?
+CHI,rrr@o [/?] .
+MOT,"they bite , watch out ."
+CHI,<rrr@o rrr@o> [/?] .
+MOT,watch out .
+MOT,"oh , !"
+MOT,"get the kangaroo and the tiger , come on ."
+CHI,rrr@o [/?] .
+MOT,what's that ?
+CHI,I don't know .
+CHI,I don't know .
+MOT,a rhinoceros .
+CHI,rrr@o [/?] .
+MOT,can you say that ?
+MOT,what's that &s [/?] +/.
+CHI,rrr@o [/?] .
+MOT,"roger , look ."
+MOT,look .
+CHI,rrr@o [/?] .
+MOT,what's this ?
+CHI,I don't know .
+MOT,rhinoceros .
+MOT,what's +/.
+CHI,a rhinoceros .
+MOT,"no , rhinoceros ."
+CHI,rhinoceros .
+MOT,rhinoceros .
+CHI,rhinoceros .
+MOT,good !
+CHI,"<rrr@o , rrr@o> [/?] ."
+MOT,what are you +/.
+MOT,what's the +/.
+MOT,what are you doing ?
+CHI,it's tiger bite me .
+MOT,"oh , no ."
+MOT,he's a nice tiger .
+MOT,"hey [/?] Bert , pet the tiger ."
+MOT,"pet the nice tiger , Bert ."
+MOT,"oh , all better ."
+CHI,trees .
+CHI,trees .
+CHI,fall down the trees .
+CHI,trees .
+MOT,pick them up .
+CHI,trees .
+CHI,<trees trees> [/?] trees .
+MOT,want me to help you ?
+CHI,yes .
+MOT,mommy will help .
+MOT,let me see .
+MOT,hafta go on the floor .
+MOT,let's put it in the house .
+MOT,there it is .
+MOT,it's standing up in the house !
+MOT,put the tree on the roof ?
+MOT,look_it .
+CHI,yeah .
+MOT,what's that ?
+CHI,I don't know .
+MOT,it's a fence .
+CHI,fence .
+CHI,it's the fence .
+CHI,trees .
+CHI,oop [/?] .
+MOT,"what are you doing , roger ?"
+CHI,I'm fixing the tree .
+MOT,do you wanna play a game ?
+CHI,"a [/?] no , I'm playing with the zoo ."
+CHI,that's an elephant .
+MOT,let me see .
+MOT,"no , that's not an elephant ."
+MOT,let me see .
+MOT,"let me see , what is that ?"
+CHI,a bird .
+MOT,"oh , you're right ."
+MOT,it is an elephant .
+MOT,mama doesn't know her animals .
+MOT,"it doesn't look like an elephant , does it ?"
+CHI,xxx .
+MOT,do you wanna play the Sesame_Street game ?
+CHI,no .
+MOT,no ?
+MOT,alright .
+CHI,I know it's +/.
+MOT,oop [/?] it fell down .
+MOT,it doesn't work .
+MOT,we don't need that tree .
+MOT,we'll play with the tree later .
+MOT,who's this ?
+CHI,xxx oops [/?] .
+MOT,"look_it , what's he doing ?"
+MOT,"roger , the tree doesn't work ."
+CHI,yeah .
+MOT,what's the matter with the tree ?
+CHI,it's broken .
+MOT,"okay , give it to me ."
+CHI,oops [/?] .
+CHI,that's a horse .
+MOT,what's the horse say ?
+MOT,"<giddyup , giddyup> [/?] ."
+MOT,where you going ?
+CHI,to do the white horses .
+MOT,say it right .
+CHI,horses .
+MOT,the white horse .
+CHI,the white horse .
+MOT,"where you going , roger ?"
+CHI,heres [: here] [* +s] .
+MOT,what are you doing ?
+MOT,what are you doing with Cookie_Monster ?
+CHI,ride .
+MOT,"roger , let's play Sesame_Street game ."
+CHI,no .
+MOT,"look , we can play with the horses later ."
+MOT,do you wanna play ?
+CHI,no .
+MOT,play with the fireman and the policeman ?
+CHI,no .
+MOT,"play with the zoo for a few minutes and then we're gonna play the game , okay ?"
+MOT,roger ?
+MOT,"say , yes mama ."
+CHI,"yes , mom ."
+MOT,"we're gonna play the game , okay ?"
+MOT,wanna put the animals away ?
+MOT,help mama put them away ?
+CHI,"<no , no> [/?] no , mom ."
+CHI,that's a tiger .
+MOT,look at the game Friends_at_work Roger .
+MOT,we can play with the policeman .
+MOT,who's this ?
+CHI,ah [/?] Grover .
+MOT,what's Grover doing ?
+MOT,he's playing a game with the little girl .
+MOT,"do you wanna play a game , too ?"
+CHI,yes .
+MOT,"alright , let's put the animals away , and we'll play the game , and then we can play with the animals after , okay ?"
+MOT,pick up the animals for mama .
+CHI,play .
+MOT,"no , pick them up nice , please ."
+MOT,"roger , pick them up ."
+MOT,put them up here .
+MOT,put them away .
+MOT,now sit down .
+MOT,"okay , there you go ."
+CHI,you don't wanna hafta play with the zoo .
+MOT,"we can play with the game and then we'll play the zoo , okay ?"
+CHI,or play the music .
+CHI,can you +/.
+MOT,we can +/.
+MOT,what ?
+CHI,can you play the music ?
+MOT,where's the music ?
+CHI,can we sing Santa_Claus ?
+MOT,we can sing later .
+MOT,"roger , what do you want ?"
+CHI,&-um [/?] .
+MOT,do you want the post office ?
+MOT,"or the fire department , or the police department ?"
+CHI,a police department .
+MOT,what do you want ?
+CHI,a police department .
+MOT,here .
+MOT,that's the police department .
+MOT,"and mama's gonna have the post office , okay ?"
+MOT,"no , sit there please ."
+MOT,sit +/.
+MOT,here you go .
+MOT,it's time to play the game .
+MOT,and what do you do when you play the game ?
+MOT,you needta +/.
+CHI,police .
+MOT,look at m@l [/?] +/.
+MOT,"no , sit ."
+MOT,you needta match +/.
+CHI,the cards .
+MOT,that's right .
+CHI,the wrong picture .
+MOT,you needta match the picture .
+CHI,the wrong picture .
+MOT,okay .
+MOT,whose turn is it ?
+CHI,your turn .
+MOT,okay .
+MOT,"oh , what's that ?"
+CHI,ah [/?] mailing .
+MOT,"mail , that's right ."
+MOT,do I have the mail ?
+CHI,yeah .
+MOT,so I match the picture !
+CHI,good .
+MOT,good girl .
+MOT,"okay , whose turn is it ?"
+CHI,my turn .
+MOT,go ahead .
+MOT,"no , look at the picture ."
+CHI,ah [/?] a wrong picture .
+MOT,"no , you hafta look at the picture ."
+MOT,turn it over .
+MOT,what is it ?
+CHI,a saw .
+MOT,do you have a saw ?
+CHI,yeah .
+CHI,nope .
+CHI,the wrong picture !
+MOT,wrong .
+MOT,put it down here .
+MOT,okay .
+MOT,whose turn is it ?
+CHI,your turn .
+MOT,that's right .
+MOT,"I have oh , +/."
+CHI,a fire .
+MOT,the mailman .
+CHI,mailman .
+MOT,do I have a mailman ?
+CHI,yes .
+MOT,so I +/.
+CHI,put it in the hole .
+MOT,I match the picture .
+CHI,I match the picture .
+MOT,whose turn is it ?
+CHI,my turn .
+MOT,roger .
+MOT,fix your legs and sit right .
+MOT,whose turn is it ?
+CHI,your +/.
+MOT,no .
+CHI,"<oh , oh> [/?] my turn ."
+MOT,"okay , pick a card ."
+CHI,pick a card .
+CHI,"oh , ."
+CHI,I did it !
+MOT,"say , I matched the picture !"
+CHI,I matched the picture !
+MOT,good boy .
+MOT,what is it ?
+CHI,I don't know .
+MOT,it's a police badge .
+CHI,a police badge .
+MOT,"roger , who's a policeman ?"
+CHI,in the +/.
+MOT,who's the policeman ?
+CHI,in the car .
+MOT,"no , what's daddy ?"
+CHI,daddy's in the police corps .
+MOT,what's daddy ?
+MOT,he's +/.
+CHI,he's in the +/.
+MOT,he's a +/.
+CHI,in a police .
+MOT,daddy's a pol [/?] +/.
+CHI,police_car .
+MOT,he's a policeman .
+CHI,policeman .
+MOT,what's daddy ?
+CHI,police_car .
+MOT,"no , that's wrong ."
+MOT,"roger , what's daddy ?"
+MOT,daddy's a policeman .
+CHI,daddy's a policeman .
+MOT,whose turn is it ?
+CHI,my &t [/?] +/.
+MOT,nope .
+CHI,"oh , your turn ."
+MOT,oop [/?] my turn .
+MOT,"oh , what's that ?"
+CHI,a fire .
+MOT,do I have a firetruck ?
+CHI,"yeah , no ."
+MOT,do you have a firetruck ?
+CHI,yeah .
+MOT,"sit down over there , please ."
+MOT,"roger , do you have a firetruck ?"
+CHI,yes .
+MOT,"no , you don't ."
+MOT,where's the firetruck ?
+CHI,in +/.
+MOT,sit up .
+MOT,sit +/.
+MOT,look at me .
+MOT,do you have a firetruck ?
+MOT,no .
+CHI,no .
+CHI,the wrong picture .
+MOT,"okay , whose turn is it ?"
+CHI,"oh , your turn ."
+MOT,"oh , hafta put that in that pile ."
+MOT,"okay , Roger's turn ."
+CHI,"oh , I don't know ."
+MOT,what is it ?
+CHI,I don't know .
+MOT,let me see .
+MOT,it's a garbage truck .
+CHI,a garbage truck .
+MOT,do you have a garbage truck ?
+CHI,ye [/?] no .
+MOT,no .
+MOT,does mama have a garbage truck ?
+CHI,no .
+MOT,wrong picture .
+MOT,whose turn is it ?
+CHI,"oh , my turn ."
+MOT,"no , sit down ."
+CHI,my turn .
+MOT,"no , say your turn ."
+CHI,"oh , your turn ."
+MOT,"well , sit down and say that ."
+MOT,whose turn is it ?
+CHI,your +/.
+MOT,say your turn .
+CHI,your turn .
+MOT,"oh , ."
+CHI,the wrong picture .
+MOT,oop [/?] what is it ?
+CHI,a hat .
+MOT,what kind of hat ?
+MOT,what kind of hat is that ?
+CHI,&-um [/?] a firehat@c .
+MOT,do I have a firehat@c ?
+CHI,no .
+MOT,do you have a firehat@c ?
+CHI,no .
+MOT,"oh , ."
+MOT,whose turn is it ?
+CHI,"oh , your turn ."
+MOT,"no , say +/."
+CHI,"oh , my &t [/?] +/."
+CHI,"oh , your turn ."
+MOT,say +/.
+MOT,my turn .
+CHI,my turn .
+CHI,my turn .
+CHI,that's a whistle !
+MOT,it's a policeman !
+CHI,a policeman .
+MOT,so what did you do ?
+CHI,&-um [/?] .
+MOT,i [/?] +/.
+CHI,I seed a policeman .
+MOT,"say , I matched the card ."
+CHI,I matched the card .
+MOT,this is no easy job .
+MOT,whose turn is it ?
+CHI,"oh , your turn ."
+CHI,the wrong picture .
+MOT,"I don't know what's going on here , roger ."
+MOT,we'll hafta switch these around here .
+CHI,the wrong picture .
+MOT,sit down right there .
+MOT,what are you doing ?
+CHI,I'm singing microphone .
+MOT,you can sing in the microphone after .
+MOT,sit back .
+MOT,it's time for us to play the game .
+MOT,sit .
+MOT,"fold your hands , please ."
+MOT,it's my turn .
+MOT,whose turn is it ?
+CHI,your turn .
+MOT,"oh , what's that ?"
+CHI,I don't know .
+MOT,it's a mailbox .
+CHI,mailbox .
+MOT,do I have a mailbox ?
+CHI,no [/?] yes .
+MOT,so I +/.
+CHI,put in the +/.
+MOT,I matched the picture .
+CHI,I matched the picture .
+MOT,"get your foot off my card , please ."
+CHI,"oh , my turn ."
+CHI,police_car .
+MOT,"oh , ."
+CHI,I matched the card !
+MOT,that's right .
+MOT,Roger's winning the game !
+MOT,one more turn and roger wins .
+MOT,"okay , whose turn is it ?"
+CHI,"oh , your turn ."
+MOT,whose turn is it ?
+CHI,"oh , your turn ."
+MOT,okay .
+MOT,"oh , what's that ?"
+CHI,I don't know .
+MOT,what's that ?
+CHI,&-um [/?] a fireman .
+MOT,do I have a fireman ?
+CHI,no .
+MOT,sit back and fold your hands .
+CHI,or have time+out .
+MOT,you're not sitting nice .
+CHI,or have +/.
+MOT,cross your legs .
+MOT,"now , look at me ."
+MOT,do I have a fireman ?
+CHI,no .
+MOT,do you have a fireman ?
+CHI,no .
+MOT,wrong card .
+CHI,ah [/?] .
+MOT,whose turn is it ?
+CHI,"oh , your &t [/?] +/."
+MOT,no .
+CHI,"oh , my turn ."
+MOT,that's right .
+CHI,a police station .
+MOT,"no , what's that ?"
+CHI,a water .
+MOT,let me see .
+MOT,that's a fire hydrant .
+CHI,oop [/?] .
+MOT,do I have a fire hydrant ?
+CHI,"no , the wrong card ."
+MOT,that's right .
+CHI,do you wear them and +/.
+CHI,eat Ann's sandwich ?
+MOT,no .
+MOT,what's Ann doing ?
+CHI,eating .
+MOT,that's right .
+MOT,she's eating her lunch .
+CHI,yeah .
+MOT,did you eat your lunch ?
+CHI,yes .
+MOT,what did you have for lunch ?
+CHI,&-um [/?] bologna and sandwich .
+MOT,"no , you didn't ."
+MOT,what did you have for lunch in school ?
+CHI,"oh , peanut_butter and jelly sandwich ."
+MOT,and what else ?
+CHI,applefruit [/?] candy apple cola .
+MOT,and what else ?
+CHI,cookies !
+MOT,what kind of cookie ?
+CHI,oreo cookie .
+MOT,was it good ?
+CHI,yes .
+CHI,can I <have them> [/?] have bologna and cheese ?
+MOT,"no , we're gonna have spaghetti for supper ."
+CHI,have meatballs !
+MOT,do you want meatballs ?
+CHI,and fish ?
+MOT,"no , that doesn't go together ."
+MOT,whose turn is it ?
+CHI,"oh , your turn ."
+MOT,meatballs and fish .
+MOT,doesn't sound too good .
+CHI,meatballs and +/.
+MOT,"oh , who's that ?"
+CHI,Big_Bird .
+MOT,do I have Big_Bird ?
+CHI,no .
+MOT,do you have Big_Bird ?
+CHI,no .
+MOT,so that's the +/.
+CHI,the wrong picture .
+MOT,"sit right , please ."
+MOT,"roger , you're not playing nice ."
+MOT,whose turn is it ?
+CHI,"oh , my turn ."
+CHI,"oh , no +/."
+MOT,"oh , we'll hafta put that +/."
+MOT,we're gonna hafta +/.
+MOT,"we're gonna hafta make roger win , here ."
+MOT,"oh , whose turn is it ?"
+CHI,"oh , my turn ."
+MOT,okay .
+MOT,"oh , ."
+CHI,a whistle !
+MOT,roger !
+CHI,have +/.
+MOT,you matched all the pictures !
+CHI,I win .
+MOT,so you +/.
+CHI,win the game .
+MOT,"that's right , good boy !"
+MOT,congratulations .
+CHI,yeah .
+MOT,nice playing the game .
+MOT,"okay , it's time +/."
+MOT,no .
+MOT,come here .
+MOT,it's time to put the game away .
+CHI,yeah .
+MOT,let's pick up all the cards .
+MOT,sit back and pick them up .
+MOT,"say , I won the game ."
+CHI,I won the game .
+MOT,that was nice playing .
+MOT,"pick the cards up , please ."
+CHI,right .
+CHI,"oh , oh , ."
+MOT,put the cover on .
+CHI,wanna sing in the microphone .
+MOT,"no , you needta ask Helen ."
+MOT,you needta ask Helen first .
+CHI,"Helen , can I sing in microphone ?"
+MOT,hold it right there .
+MOT,hold it right there and sing .
+CHI,<i better watch out> [/?] .
+MOT,sing it right there .
+CHI,<a better watch out> [/?] +/.
+MOT,"roger , sing +/."
+MOT,what do you wanna sing ?
+MOT,wanna sing Chicago ?
+CHI,"oh , Santa_Claus ."
+MOT,"oh , Santa_Claus is all_gone ."
+MOT,sing Chicago .
+CHI,<the next time I fall in love> [/?] .
+CHI,<the next time> [/?] .
+MOT,don't pull .
+CHI,"<i fall in love , it will be with you> [/?] ."
+MOT,sing it right .
+MOT,"no , put the microphone down then ."
+MOT,you can't sing .
+MOT,"come on , it's time to play ."
+CHI,"oh , ."
+MOT,here .
+MOT,sit here .
+MOT,what are you doing ?
+CHI,&-um [/?] I'm playing with that .
+MOT,"oh , it's time to eat the supper ."
+CHI,"I know mine , and my green bagel ."
+MOT,what ?
+MOT,what's this ?
+CHI,a green bagel .
+MOT,"roger , turn around so Helen can see you ."
+CHI,ow [/?] you funny .
+MOT,play right .
+MOT,"oh , let's go Cookie_Monster ."
+MOT,I have Cookie_Monster in a car .
+CHI,"oh , ."
+MOT,"roger , what's this ?"
+CHI,a food .
+MOT,food ?
+MOT,what kind of food is that ?
+CHI,&-um [/?] breakfast .
+MOT,what's this ?
+CHI,breakfast .
+MOT,who's having breakfast ?
+CHI,&-um [/?] .
+MOT,tell Big_Bird it's time for breakfast .
+CHI,no .
+MOT,where is he ?
+MOT,where's Big_Bird ?
+CHI,he's in the hospital .
+MOT,what happened to him ?
+CHI,he bite me .
+MOT,who bit ?
+CHI,the bit [/?] tiger .
+MOT,the tiger bit Big_Bird ?
+MOT,"oh , ."
+MOT,here he is .
+MOT,"oh , he's all better ."
+CHI,all better .
+CHI,I'm gonna get the animals .
+MOT,<don't> [/?] don't throw them .
+CHI,don't throw .
+MOT,what are you doing ?
+MOT,that's enough .
+MOT,sit down .
+MOT,what's that ?
+CHI,a tiger .
+MOT,let me see .
+CHI,that's a l [/?] tiger .
+MOT,let me see .
+CHI,a tiger .
+MOT,is that a tiger or a lion ?
+MOT,what is it ?
+CHI,a tiger .
+MOT,what does a tiger do ?
+CHI,roar [/?] .
+CHI,roar [/?] .
+CHI,roar [/?] .
+MOT,"oh , no ."
+MOT,what happened ?
+CHI,roar [/?] .
+MOT,"oh , be nice ."
+CHI,rrr@o [/?] .
+MOT,hey [/?] turn this way .
+CHI,rrr@o [/?] .
+MOT,"roger , turn around ."
+MOT,that's a nice tiger .
+CHI,rrr@o [/?] .
+MOT,"say , nice tiger ."
+MOT,hi [/?] .
+CHI,hi [/?] .
+MOT,nice tiger .
+CHI,rrr@o [/?] .
+MOT,you don't want him to be nice .
+CHI,roar [/?] .
+CHI,roar [/?] .
+CHI,roar [/?] .
+MOT,what happened ?
+CHI,it bite me .

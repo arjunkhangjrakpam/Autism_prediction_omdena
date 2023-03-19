@@ -1,0 +1,285 @@
+participant,sentence
+CHI,we need an xxx .
+MOT,we need an airplane .
+MOT,hm: there's no airplane in here .
+CHI,I can make the airplane .
+MOT,you're gonna make the airplane ?
+MOT,okay make the airplane .
+MOT,okay ready ?
+CHI,&=flying .
+MOT,wow !
+MOT,oopsie@g &=gasp the airplane broke oh no !
+CHI,&=yells .
+MOT,aw crash !
+MOT,oh no what are we gonna do ?
+CHI,we need call xxx .
+MOT,we needta call +/.
+MOT,oh your Disney_On_Ice .
+MOT,we don't &ha +/.
+CHI,no Toy_Story_Three .
+MOT,yes we're gonna go see Toy_Story_Three .
+MOT,yes you're right .
+CHI,on ice .
+MOT,"on ice, yes you're right ."
+MOT,you're right .
+MOT,we don't needta go to Disney_World though to do that .
+CHI,&=flying .
+MOT,Oh is there a plane ?
+CHI,&=flying .
+MOT,&=flying .
+CHI,&pt .
+MOT,oh what happened now ?
+MOT,what happened ?
+MOT,Nevel .
+CHI,0 .
+MOT,&=gasps you hadta fix it again ?
+CHI,no .
+MOT,oh no .
+MOT,what happened ?
+MOT,can I help ?
+MOT,&=gasps what's going on ?
+CHI,it's broken .
+MOT,so we needta fix it .
+MOT,can I help ?
+CHI,no xxx .
+MOT,you can do it ?
+MOT,okay do it .
+MOT,I wanna ride on the airplane .
+CHI,ya .
+MOT,<fix it> [x 2] .
+MOT,now where do I go ?
+CHI,in the airplane .
+MOT,okay I'm in the airplane .
+CHI,no .
+MOT,&=gasps why ?
+CHI,I don't want .
+MOT,you don't want ?
+MOT,"oh, okay ."
+CHI,let her go in bed .
+MOT,"she got to go to bed, well where's my bed ?"
+CHI,there !
+MOT,where ?
+CHI,there !
+CHI,xxx .
+MOT,can you help me ?
+MOT,thank_you .
+MOT,I'm so sleepy .
+MOT,"aw, okay ."
+CHI,&=moans .
+MOT,but Nevel can <can you> [x 3] give me a kiss ?
+CHI,0 .
+MOT,thank_you .
+MOT,night night .
+CHI,good night .
+MOT,she's sleepy now .
+CHI,&=moans .
+MOT,&=flying we're back on the airplane ?
+MOT,okay we're in Florida .
+MOT,come let's take the truck and we'll go to Disney_World .
+CHI,oh no !
+MOT,oh no !
+MOT,what happened ?
+MOT,what happened ?
+MOT,it broke again .
+MOT,it's okay though we'll take the truck .
+MOT,we'll take the truck .
+CHI,I can fix the airplane .
+MOT,you're gonna fix the airplane again ?
+MOT,but we hafta go to Disney_World .
+MOT,oh okay .
+CHI,&=yells .
+MOT,so now we're +/.
+CHI,I fixed the airplane .
+MOT,"you did you fixed it, so now where are we flying ?"
+CHI,to [x 2] Disney_World .
+MOT,and where's Disney_World ?
+MOT,show me .
+CHI,the truck .
+MOT,&th Disney_World's in the truck .
+MOT,okay let's go .
+CHI,&=engine .
+CHI,we made it to Disney_World .
+MOT,"we made it to Disney_World, now what do we do ?"
+CHI,we hafta see Toy_Story_Three .
+MOT,Toy_Story_Three ?
+MOT,Where is Toy_Story_Three ?
+MOT,we don't have it .
+CHI,ah .
+MOT,ah now &wha ?
+CHI,xxx .
+MOT,we're gonna leave those toys after .
+MOT,we'll leave those ones for after .
+MOT,come .
+MOT,come [x 2] .
+MOT,"we'll leave those ones for after, let's play with these ones ."
+MOT,let's play with these ones .
+CHI,&ee &ee .
+MOT,"here oh, I always wanted to go to Disney_World ."
+MOT,can you take me ?
+MOT,you gonna take care of the baby ?
+MOT,I'll take care of this one .
+CHI,my baby keeps &heav .
+MOT,you're heavy ?
+MOT,oh no .
+MOT,I'm thirsty .
+MOT,&=gasps baby's thirsty .
+MOT,she needs to drink .
+CHI,this milk .
+MOT,&=sips .
+MOT,&=gasps baby hasta burp now .
+CHI,&=sneezes .
+MOT,aw did she barf ?
+MOT,or burp ?
+MOT,&=laughs .
+CHI,&=sips .
+MOT,&da not in your mouth silly that's for the baby .
+MOT,okay .
+CHI,&=sips .
+MOT,&ah oh she hasta burp .
+CHI,&wa &wava &=sneezes .
+MOT,oh disgusting !
+MOT,oh_my_gosh .
+CHI,&=laughs wo(a)h &he .
+MOT,I'm thirsty too .
+MOT,oh what do you say ?
+CHI,&scuse me .
+MOT,thank_you .
+MOT,&=sips ah .
+MOT,that was delicious .
+CHI,&=laughs uhoh .
+MOT,uhoh .
+CHI,&=laughs .
+MOT,she's gotta burp .
+CHI,&pft .
+MOT,ugh disgusting !
+MOT,what are we gonna do ?
+MOT,we hafta clean her now .
+CHI,&=laughs .
+MOT,&ma you wanna make her drink more ?
+MOT,no no &o &u [x 3] .
+MOT,okay now burp .
+MOT,come on xxx .
+MOT,burp@o .
+MOT,oh there .
+MOT,I feel better now .
+MOT,would you like to have a drink ?
+CHI,0 &=sips .
+MOT,awesome .
+MOT,&=gasps here I'll pour you some more .
+MOT,slurp@o .
+CHI,&=sips .
+MOT,delicious .
+MOT,can I have some ?
+MOT,oh you're squishing my finger .
+MOT,thank_you .
+MOT,thank_you .
+MOT,what do we say ?
+CHI,cheers .
+MOT,&=sips ah .
+MOT,"delicious [x 2] &deli, Nevel would you like to have some cake ?"
+MOT,here's a piece of cake for you .
+MOT,and here's one for me .
+MOT,here's a spoon .
+CHI,&=eats .
+MOT,&=eats mm: chocolate .
+CHI,&oo !
+MOT,what ?
+CHI,that's too hot !
+MOT,it's too hot ?
+MOT,oh so what should we do ?
+CHI,need just right .
+MOT,you need it to be just right ?
+MOT,is it just right now ?
+MOT,is it just right now ?
+MOT,don't put it in your mouth .
+MOT,pretend .
+CHI,no I don't .
+MOT,&m I would like some more drink .
+CHI,I don't want it .
+MOT,you don't want that ?
+MOT,"you're all &f, are you full ?"
+CHI,I want some milk .
+MOT,oh here you go .
+MOT,give me your glass .
+MOT,behind you look .
+MOT,tadah &=laughs .
+MOT,oops .
+MOT,oh no you spilt the milk &=laughs .
+CHI,xxx .
+MOT,what ?
+CHI,that's a banyu@c .
+MOT,it's a banyo@c ?
+MOT,&=gasps is it milk ?
+CHI,&=sips .
+MOT,ah delicious ?
+MOT,can I have some coffee ?
+MOT,ah &o it's hot .
+MOT,my coffee's hot .
+MOT,&=blows .
+CHI,&=blows .
+MOT,&=sips ah delicious .
+CHI,oops &=laughs ?
+MOT,what ?
+CHI,&=laughs .
+MOT,what did you do ?
+MOT,what did you do ?
+CHI,I xxx barf .
+MOT,you're gonna barf ?
+CHI,&pft &=laughs .
+MOT,oh disgusting .
+CHI,&=laughs .
+MOT,what [x 2] ?
+CHI,that's &disgust .
+MOT,it disgusting .
+CHI,it's coffee .
+MOT,it's coffee ?
+MOT,can I have some more ?
+MOT,thank_you .
+MOT,do we do cheers again ?
+MOT,ah &=blows &=sips ah .
+MOT,delicious .
+CHI,I &gon barf .
+MOT,you're gonna barf so stop drinking coffee !
+MOT,you're too young !
+CHI,&bea boua@o .
+MOT,ugh you barfed on me .
+MOT,disgusting ugh .
+CHI,&=laughs .
+MOT,oh no .
+CHI,I barfed .
+MOT,you're gonna barf again ?
+MOT,"no [x 2], no [x 4] ."
+MOT,&m [x 3] .
+CHI,&=laughs .
+CHI,I'm gonna barf .
+MOT,go barf somewhere else not on me .
+CHI,boua@o .
+MOT,ugh disgusting .
+CHI,www .
+CHI,I did a barf .
+MOT,&=laughs .
+CHI,&=laughs .
+MOT,that's disgusting .
+MOT,let's do clean up now Nevel okay ?
+CHI,&da &dis &gus .
+MOT,Nevel &le let's do clean up now .
+MOT,thank_you .
+CHI,disgusting !
+MOT,can you go and get the truck ?
+MOT,Nevel .
+CHI,disgusting .
+MOT,get the truck please .
+CHI,disgusting .
+MOT,put it away .
+MOT,and get the water .
+CHI,ah .
+MOT,what else ?
+MOT,the plate .
+CHI,it's a cake .
+MOT,"&m oh yes and the cake, oh &th what about the little girl ?"
+MOT,she needs to go to bed .
+MOT,and .
+MOT,and what do we hafta put on top ?
+MOT,the cover .
+MOT,oh snap .
+MOT,give me five .

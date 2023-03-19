@@ -1,0 +1,507 @@
+A10,A9,A8,A7,A6,A5,A4,A3,A2,A1,Region,Family member with ASD history,Who is completing the test,Age,Gender,Screening Score,Class
+0,0,1,1,1,0,0,0,0,0,Makkah Province,No,Family member,32,Female,3,0
+0,0,1,0,0,1,0,1,0,0,Makkah Province,No,Family member,30,Female,3,0
+0,0,0,1,0,0,0,0,0,0,Makkah Province,No,Family member,36,Male,1,0
+0,0,0,0,0,0,0,0,0,0,Makkah Province,Yes,Family member,36,Female,0,0
+0,0,0,0,0,0,0,0,0,0,Eastern Province,No,Family member,36,Female,0,0
+0,0,0,1,1,1,0,1,0,0,Eastern Province,No,Family member,17,Male,4,1
+0,0,1,1,1,1,0,1,0,1,Makkah Province,No,Family member,18,Female,6,1
+0,0,0,0,0,0,0,0,0,0,Eastern Province,No,Family member,24,Female,0,0
+0,0,0,0,0,0,0,0,0,0,Makkah Province,No,Other,24,Male,0,0
+0,0,1,0,0,1,0,0,0,0,Makkah Province,No,Family member,26,Male,2,0
+0,1,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,18,Male,1,0
+1,1,1,1,1,1,1,0,1,1,Makkah Province,Yes,Family member,30,Female,9,1
+0,0,0,0,0,0,1,1,0,0,Makkah Province,No,Family member,28,Male,2,0
+0,1,1,1,0,1,0,0,0,0,Makkah Province,No,Family member,14,Female,4,1
+0,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,15,Female,0,0
+0,0,0,0,1,0,1,0,0,1,Makkah Province,No,Family member,12,Female,3,0
+0,1,0,1,0,1,0,1,0,0,Makkah Province,Yes,Family member,24,Female,4,1
+0,0,1,0,0,0,0,0,0,0,Makkah Province,No,Family member,12,Female,1,0
+1,0,1,0,0,1,1,0,1,1,Makkah Province,Yes,Family member,16,Male,6,1
+0,0,1,1,0,0,0,0,0,1,Makkah Province,No,Family member,20,Female,3,0
+0,0,0,1,0,0,0,0,0,0,Makkah Province,No,Family member,17,Male,1,0
+0,0,1,1,0,0,1,0,0,0,Makkah Province,Yes,Family member,24,Female,3,0
+0,0,0,0,1,1,1,1,0,0,Makkah Province,No,Other,36,Female,4,1
+0,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,12,Female,0,0
+1,0,1,0,0,0,0,0,0,0,Makkah Province,No,Family member,34,Female,2,0
+0,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,18,Female,0,0
+0,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,18,Female,0,0
+0,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,18,Female,0,0
+1,0,1,0,0,0,0,0,0,0,Makkah Province,No,Family member,24,Female,2,0
+0,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,24,Female,0,0
+0,0,0,1,0,1,0,0,0,0,Madinah Province,No,Family member,26,Male,2,0
+0,0,0,0,0,0,1,0,0,0,Makkah Province,No,Family member,20,Male,1,0
+1,0,0,0,0,1,0,0,0,0,Makkah Province,No,Family member,13,Female,2,0
+1,1,1,0,1,1,1,0,1,1,Makkah Province,No,Family member,36,Female,8,1
+0,0,0,1,1,0,1,0,0,0,Makkah Province,No,Family member,18,Male,3,0
+0,0,0,0,0,0,0,1,0,0,Makkah Province,No,Family member,22,Female,1,0
+0,0,0,0,0,0,0,0,0,0,Eastern Province,No,Other,14,Female,0,0
+0,0,1,0,0,0,0,0,0,0,Makkah Province,No,Family member,17,Female,1,0
+0,0,0,1,0,0,0,0,0,0,Makkah Province,No,Family member,24,Female,1,0
+0,0,0,0,0,0,0,0,0,0,Aseer Province,No,Family member,25,Male,0,0
+0,0,1,0,0,0,0,0,0,0,Makkah Province,No,Family member,33,Male,1,0
+1,0,1,0,0,1,0,0,0,0,Madinah Province,No,Family member,24,Female,3,0
+0,0,0,0,0,1,0,0,0,0,Madinah Province,No,Family member,12,Female,1,0
+0,0,1,0,0,0,1,1,0,0,Makkah Province,No,Family member,18,Male,3,0
+0,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,29,Female,0,0
+1,0,1,1,1,1,1,1,0,1,Makkah Province,No,Family member,12,Female,8,1
+0,1,0,0,0,1,1,0,0,0,Makkah Province,No,Family member,24,Female,3,0
+0,1,0,0,1,1,1,1,0,0,Makkah Province,No,Family member,12,Female,5,1
+0,0,0,1,0,0,1,1,0,0,Makkah Province,No,Family member,33,Female,3,0
+0,1,0,0,1,1,1,1,0,0,Makkah Province,No,Family member,36,Male,5,1
+0,0,1,1,0,1,0,0,0,0,Makkah Province,No,Family member,13,Male,3,0
+1,1,1,1,0,1,1,0,1,1,Makkah Province,No,Family member,36,Female,8,1
+1,1,1,1,0,0,1,1,0,0,Riyadh Province,No,Family member,15,Female,6,1
+1,1,1,0,1,1,0,0,1,1,Riyadh Province,Yes,Family member,25,Female,7,1
+0,1,1,1,1,1,1,1,0,0,Makkah Province,No,Family member,36,Female,7,1
+0,1,1,1,0,1,1,1,1,1,Makkah Province,No,Other,36,Female,8,1
+1,1,1,1,1,1,1,0,0,1,Makkah Province,Yes,Family member,12,Female,8,1
+0,0,0,0,0,1,0,0,0,0,Makkah Province,No,Family member,12,Female,1,0
+0,1,0,1,0,1,1,1,0,0,Makkah Province,No,Family member,36,Female,5,1
+1,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,18,Female,1,0
+0,0,0,0,0,0,0,0,0,1,Jizan Province,No,Family member,36,Female,1,0
+0,0,0,0,0,0,1,0,0,0,Makkah Province,No,Family member,22,Female,1,0
+0,1,0,0,0,1,1,1,0,0,Makkah Province,No,Family member,36,Female,4,1
+1,0,1,1,0,1,1,0,1,0,Makkah Province,No,Family member,36,Female,6,1
+0,0,0,1,1,1,1,1,0,0,Makkah Province,No,Family member,20,Female,5,1
+0,0,1,0,1,1,0,0,1,1,Makkah Province,No,Other,33,Female,5,1
+0,0,1,1,0,0,0,0,0,0,Makkah Province,No,Family member,36,Male,2,0
+1,1,1,1,1,1,1,1,1,1,Makkah Province,No,Family member,36,Male,10,1
+1,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,24,Female,1,0
+1,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,12,Female,1,0
+0,1,0,1,1,1,1,1,0,0,Makkah Province,No,Family member,12,Female,6,1
+0,1,1,1,1,1,1,1,1,1,Makkah Province,No,Other,24,Female,9,1
+1,0,1,0,0,0,0,0,1,1,Makkah Province,Yes,Family member,36,Female,4,1
+1,1,1,0,1,0,0,0,1,1,Makkah Province,No,Family member,27,Female,6,1
+0,1,0,1,1,1,0,0,0,1,Makkah Province,No,Family member,13,Female,5,1
+1,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,13,Female,1,0
+1,1,1,1,1,1,1,0,1,1,Makkah Province,No,Family member,36,Male,9,1
+0,0,0,0,0,1,1,1,0,0,Makkah Province,Yes,Family member,36,Male,3,0
+0,0,0,0,0,0,1,0,0,0,Makkah Province,No,Family member,20,Female,1,0
+1,0,0,0,1,0,0,0,1,1,Makkah Province,No,Family member,30,Female,4,1
+1,1,0,1,0,0,0,0,1,1,Makkah Province,No,Other,24,Female,5,1
+0,0,0,0,0,1,0,0,0,0,Makkah Province,No,Family member,12,Male,1,0
+0,1,0,1,0,1,1,1,0,1,Makkah Province,No,Family member,12,Female,6,1
+0,1,0,1,0,0,0,0,0,0,Makkah Province,No,Family member,36,Female,2,0
+0,1,1,1,1,1,1,1,1,1,Makkah Province,No,Family member,12,Female,9,1
+0,0,0,0,0,0,0,0,0,0,Makkah Province,No,Other,12,Female,0,0
+0,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,33,Female,0,0
+0,1,0,1,1,0,0,1,0,0,Makkah Province,No,Family member,12,Female,4,1
+1,0,1,1,0,0,0,0,0,0,Makkah Province,No,Family member,36,Female,3,0
+1,0,0,0,0,0,0,0,0,1,Makkah Province,No,Family member,12,Female,2,0
+0,0,0,0,0,1,0,0,0,0,Makkah Province,No,Family member,35,Male,1,0
+1,0,1,1,0,1,0,0,0,0,Makkah Province,No,Other,12,Female,4,1
+0,1,1,1,1,1,1,1,1,1,Northern Borders Province,No,Other,18,Female,9,1
+1,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,12,Female,1,0
+0,1,1,1,1,1,1,1,1,1,Aseer Province,Yes,Family member,22,Male,9,1
+1,1,1,1,1,1,1,1,1,0,Ha'il Province,No,Other,36,Male,9,1
+1,1,1,1,1,1,1,0,1,1,Makkah Province,No,Family member,36,Male,9,1
+0,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,24,Female,0,0
+1,0,1,0,0,1,1,1,1,0,Makkah Province,No,Family member,32,Female,6,1
+0,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,36,Female,0,0
+0,0,0,0,0,1,1,1,0,0,Makkah Province,No,Family member,16,Female,3,0
+1,0,0,0,0,0,0,0,0,0,Riyadh Province,No,Family member,25,Female,1,0
+1,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,36,Female,1,0
+0,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,18,Female,0,0
+0,0,0,1,1,1,1,1,0,0,Makkah Province,No,Family member,36,Female,5,1
+0,0,0,0,0,0,0,0,0,1,Makkah Province,No,Family member,24,Female,1,0
+0,0,0,1,0,1,0,0,0,0,Makkah Province,No,Family member,24,Female,2,0
+0,1,0,1,1,1,1,1,0,0,Makkah Province,No,Family member,33,Female,6,1
+0,0,1,0,1,0,0,0,1,1,Makkah Province,No,Other,13,Female,4,1
+0,0,0,0,0,0,0,0,0,0,Makkah Province,No,Other,36,Female,0,0
+1,0,1,0,0,0,0,0,1,1,Makkah Province,No,Family member,36,Female,4,1
+0,0,0,1,0,0,0,1,0,0,Makkah Province,No,Family member,12,Female,2,0
+0,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,36,Male,0,0
+0,0,0,0,0,1,1,1,0,0,Makkah Province,No,Family member,25,Female,3,0
+1,1,0,0,0,0,0,1,0,0,Makkah Province,No,Family member,36,Female,3,0
+1,1,0,1,1,0,1,1,1,1,Makkah Province,No,Other,36,Female,8,1
+0,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,36,Female,0,0
+1,0,0,0,1,1,0,1,0,1,Makkah Province,No,Other,12,Female,5,1
+1,0,1,1,0,1,0,0,0,0,Makkah Province,No,Other,12,Female,4,1
+0,0,0,1,0,0,0,0,0,0,Makkah Province,No,Family member,24,Female,1,0
+1,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,36,Female,1,0
+0,0,0,0,1,1,1,1,0,0,Makkah Province,No,Family member,24,Male,4,1
+0,1,0,1,1,1,1,1,0,0,Makkah Province,No,Family member,12,Female,6,1
+0,0,0,1,0,1,0,0,0,0,Makkah Province,No,Family member,30,Female,2,0
+1,0,1,1,0,0,0,0,0,0,Makkah Province,No,Family member,12,Male,3,0
+1,1,1,1,0,0,1,0,0,1,Makkah Province,No,Family member,24,Female,6,1
+1,0,0,1,0,0,0,0,0,0,Makkah Province,No,Family member,18,Female,2,0
+0,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,16,Female,0,0
+0,1,0,1,0,1,1,1,0,0,Makkah Province,No,Family member,36,Female,5,1
+0,1,1,1,1,1,1,1,1,1,Makkah Province,No,Family member,20,Female,9,1
+1,0,0,0,0,0,0,0,0,0,Makkah Province,Yes,Family member,24,Female,1,0
+0,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,22,Female,0,0
+1,1,1,0,0,1,0,0,0,0,Makkah Province,No,Family member,22,Female,4,1
+0,0,0,0,0,0,1,0,0,0,Riyadh Province,No,Family member,35,Female,1,0
+1,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,36,Female,1,0
+0,0,0,0,0,0,1,1,0,0,Makkah Province,No,Family member,14,Female,2,0
+0,0,0,0,0,1,0,0,0,0,Makkah Province,No,Family member,24,Female,1,0
+1,0,1,0,0,0,0,0,0,0,Makkah Province,No,Family member,24,Male,2,0
+0,1,0,1,1,1,1,1,0,0,Madinah Province,No,Family member,28,Male,6,1
+0,0,0,0,1,1,0,0,0,1,Makkah Province,No,Family member,22,Male,3,0
+1,1,1,1,1,1,1,1,1,1,Makkah Province,Yes,Other,12,Female,10,1
+1,1,1,1,1,1,1,1,1,1,Makkah Province,No,Family member,30,Female,10,1
+0,0,0,0,1,1,0,0,0,1,Makkah Province,No,Family member,36,Female,3,0
+1,0,0,0,0,0,0,1,0,0,Makkah Province,No,Family member,19,Female,2,0
+1,0,1,0,0,0,0,0,0,0,Makkah Province,No,Family member,20,Male,2,0
+0,0,0,0,0,1,0,0,0,0,Makkah Province,No,Family member,12,Female,1,0
+1,1,1,1,1,1,1,1,1,1,Makkah Province,No,Family member,36,Female,10,1
+1,0,1,0,0,0,0,0,1,1,Makkah Province,Yes,Family member,12,Female,4,1
+1,1,1,1,1,0,1,1,1,1,Makkah Province,Yes,Other,36,Female,9,1
+0,0,0,0,0,1,1,1,0,0,Makkah Province,No,Family member,33,Female,3,0
+1,0,1,0,1,1,1,0,1,0,Makkah Province,No,Family member,12,Female,6,1
+1,0,1,1,0,0,1,0,0,0,Makkah Province,No,Family member,21,Female,4,1
+0,1,0,0,0,1,1,1,0,0,Makkah Province,No,Family member,36,Male,4,1
+1,1,1,1,0,0,1,0,1,1,Makkah Province,No,Family member,36,Female,7,1
+1,1,0,0,1,1,0,1,0,0,Makkah Province,No,Family member,36,Male,5,1
+0,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,36,Female,0,0
+0,0,0,1,0,1,0,0,0,0,Makkah Province,No,Family member,24,Female,2,0
+1,1,1,1,1,1,1,1,1,1,Qassim Province,No,Other,36,Female,10,1
+1,0,0,0,0,0,0,0,0,1,Makkah Province,No,Other,24,Female,2,0
+1,1,1,1,0,1,1,1,0,1,Makkah Province,No,Family member,36,Female,8,1
+1,1,1,1,1,0,1,1,1,1,Makkah Province,Yes,Family member,36,Female,9,1
+0,0,1,1,0,1,0,0,0,0,Makkah Province,No,Family member,24,Male,3,0
+1,1,1,1,1,1,1,1,0,0,Eastern Province,No,Family member,13,Male,8,1
+1,1,0,1,1,1,1,1,1,1,Makkah Province,No,Family member,36,Male,9,1
+0,0,1,1,1,1,1,1,0,1,Riyadh Province,No,Family member,35,Male,7,1
+0,1,0,0,1,0,1,1,1,1,Riyadh Province,No,Family member,36,Male,6,1
+1,1,1,0,1,1,0,0,1,0,Riyadh Province,No,Family member,12,Male,6,1
+1,1,0,0,1,0,1,1,1,1,Qassim Province,Yes,Family member,14,Female,7,1
+0,0,0,0,0,0,0,0,0,0,Riyadh Province,Yes,Family member,18,Female,0,0
+1,0,0,0,0,1,1,1,1,1,Madinah Province,Yes,Family member,12,Male,6,1
+1,0,0,0,0,0,0,0,1,1,Makkah Province,No,Family member,12,Male,3,0
+0,0,1,1,1,1,1,1,1,1,Tabuk Province,No,Family member,25,Female,8,1
+0,1,0,1,1,1,1,1,0,0,Makkah Province,No,Family member,36,Female,6,1
+1,0,1,1,1,0,1,0,1,1,Makkah Province,Yes,Family member,30,Female,7,1
+1,0,0,1,1,0,0,1,0,0,Eastern Province,No,Family member,15,Male,4,1
+1,0,1,1,1,0,0,1,1,1,Makkah Province,No,Family member,36,Female,7,1
+1,0,1,1,1,0,1,0,0,1,Makkah Province,No,Family member,24,Female,6,1
+1,0,1,0,0,0,0,0,0,1,Makkah Province,Yes,Family member,23,Female,3,0
+1,0,1,1,1,1,0,0,1,1,Makkah Province,No,Family member,25,Female,7,1
+1,0,1,0,1,1,1,1,1,1,Makkah Province,No,Family member,36,Female,8,1
+0,1,0,0,0,0,0,1,0,0,Makkah Province,Yes,Family member,36,Female,2,0
+0,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,34,Female,0,0
+0,1,1,1,1,0,1,1,1,1,Makkah Province,Yes,Family member,36,Female,8,1
+0,1,0,1,1,0,0,1,0,0,Makkah Province,No,Family member,18,Female,4,1
+1,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,26,Female,1,0
+0,1,1,1,1,1,1,0,1,1,Makkah Province,No,Family member,36,Female,8,1
+1,0,0,0,0,0,0,0,1,1,Makkah Province,No,Family member,25,Female,3,0
+0,1,1,1,1,0,1,0,1,1,Makkah Province,Yes,Family member,23,Female,7,1
+1,0,0,1,1,0,0,0,0,0,Makkah Province,No,Family member,23,Female,3,0
+1,0,0,0,0,0,0,0,0,1,Makkah Province,No,Family member,26,Female,2,0
+1,0,0,0,0,1,0,0,0,1,Makkah Province,No,Family member,24,Female,3,0
+1,1,0,0,1,1,0,0,0,1,Makkah Province,No,Family member,25,Female,5,1
+1,0,1,0,0,0,0,0,0,1,Makkah Province,No,Family member,19,Female,3,0
+1,1,0,1,0,1,1,1,1,1,Eastern Province,No,Family member,19,Female,8,1
+0,0,1,1,0,0,0,0,1,1,Makkah Province,No,Family member,33,Female,4,1
+1,0,1,1,1,1,0,1,1,0,Makkah Province,No,Family member,18,Female,7,1
+1,1,1,0,0,0,0,0,0,0,Riyadh Province,Yes,Family member,12,Female,3,0
+1,1,1,1,1,1,1,1,1,1,Al Jawf Province,No,Family member,13,Female,10,1
+0,1,1,1,1,1,1,1,1,1,Aseer Province,No,Family member,20,Female,9,1
+1,1,1,1,1,1,1,1,1,1,Eastern Province,Yes,Family member,14,Male,10,1
+1,1,1,1,1,1,1,1,1,1,Eastern Province,No,Family member,12,Female,10,1
+1,1,0,1,0,1,0,1,1,1,Riyadh Province,No,Family member,12,Male,7,1
+1,1,0,1,1,1,1,1,1,1,Eastern Province,No,Other,15,Male,9,1
+1,0,0,0,1,0,1,0,1,1,Riyadh Province,No,Family member,16,Female,5,1
+1,0,0,0,0,0,0,1,1,1,Riyadh Province,No,Family member,12,Female,4,1
+1,0,0,0,0,0,0,0,1,1,Northern Borders Province,Yes,Other,20,Male,3,0
+1,1,0,1,1,1,1,1,1,1,Riyadh Province,No,Other,18,Female,9,1
+1,1,1,1,1,1,1,0,0,0,Eastern Province,Yes,Family member,15,Male,7,1
+1,0,0,0,0,0,0,0,0,0,Riyadh Province,No,Family member,20,Female,1,0
+1,0,0,0,0,0,0,0,0,0,Eastern Province,No,Family member,13,Male,1,0
+1,0,0,0,0,0,0,0,0,0,Eastern Province,No,Other,12,Female,1,0
+1,0,0,0,0,0,0,0,0,0,Eastern Province,No,Family member,14,Female,1,0
+1,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,13,Male,1,0
+1,0,0,0,0,0,0,0,0,0,Northern Borders Province,No,Family member,14,Female,1,0
+1,0,0,0,0,0,0,0,0,0,Madinah Province,No,Family member,15,Female,1,0
+1,0,0,0,1,0,0,0,0,1,Eastern Province,No,Family member,14,Male,3,0
+1,0,1,0,0,0,0,0,0,0,Makkah Province,No,Family member,16,Male,2,0
+1,0,1,1,1,1,0,0,0,0,Riyadh Province,Yes,Family member,17,Female,5,1
+1,0,1,0,0,0,0,0,1,0,Riyadh Province,Yes,Family member,13,Male,3,0
+1,0,1,1,1,1,0,0,0,0,Riyadh Province,Yes,Family member,12,Female,5,1
+1,0,1,1,0,1,1,1,0,0,Qassim Province,Yes,Family member,13,Male,6,1
+0,1,1,1,1,1,1,1,1,1,Qassim Province,Yes,Family member,12,Female,9,1
+1,1,1,1,1,1,1,1,1,0,Eastern Province,No,Family member,14,Male,9,1
+1,0,1,1,1,1,1,1,1,1,Ha'il Province,Yes,Family member,12,Male,9,1
+1,1,1,1,1,1,1,1,1,1,Ha'il Province,Yes,Family member,15,Female,10,1
+1,1,1,0,1,1,1,1,0,0,Qassim Province,No,Other,16,Female,7,1
+1,1,1,1,1,0,1,0,1,0,Eastern Province,No,Other,17,Male,7,1
+1,1,1,1,1,1,1,1,1,1,Riyadh Province,Yes,Family member,21,Female,10,1
+1,1,1,0,1,1,1,1,1,1,Riyadh Province,Yes,Other,25,Male,9,1
+1,0,0,0,0,0,0,0,0,0,Qassim Province,No,Other,20,Female,1,0
+1,0,0,0,0,0,0,0,0,0,Northern Borders Province,No,Family member,21,Female,1,0
+1,0,0,0,0,0,0,0,0,0,Eastern Province,No,Family member,20,Male,1,0
+1,0,0,0,0,0,0,0,1,1,Northern Borders Province,No,Family member,14,Male,3,0
+1,1,1,1,1,1,1,1,1,1,Eastern Province,No,Family member,32,Male,10,1
+0,1,1,1,1,1,1,1,1,1,Riyadh Province,No,Family member,31,Male,9,1
+1,1,0,1,1,1,1,0,0,0,Makkah Province,No,Family member,24,Female,6,1
+1,1,0,1,0,0,0,0,0,1,Makkah Province,No,Family member,36,Female,4,1
+1,0,0,0,0,0,0,1,0,1,Makkah Province,No,Family member,31,Female,3,0
+0,0,0,0,0,0,1,1,0,1,Makkah Province,No,Family member,22,Female,3,0
+1,0,0,0,0,0,0,0,0,1,Makkah Province,No,Family member,33,Female,2,0
+1,1,1,0,1,1,1,0,0,0,Makkah Province,No,Family member,27,Male,6,1
+1,1,1,1,1,1,1,0,1,1,Makkah Province,No,Family member,27,Female,9,1
+0,1,1,1,1,1,1,1,1,1,Makkah Province,Yes,Family member,35,Female,9,1
+1,0,0,0,0,0,0,0,0,1,Makkah Province,No,Other,24,Female,2,0
+1,0,0,0,1,1,0,0,0,1,Makkah Province,No,Family member,21,Female,4,1
+1,1,0,0,0,0,0,0,0,1,Makkah Province,No,Family member,35,Female,3,0
+0,0,0,0,0,1,1,0,0,1,Madinah Province,No,Family member,28,Male,3,0
+1,1,0,0,1,0,1,1,1,1,Tabuk Province,Yes,Family member,15,Female,7,1
+1,1,1,1,1,0,1,0,0,1,Makkah Province,No,Family member,33,Female,7,1
+1,1,1,0,0,1,1,0,0,1,Makkah Province,No,Other,36,Female,6,1
+1,0,0,0,1,1,0,1,1,1,Ha'il Province,Yes,Other,12,Female,6,1
+0,1,1,0,1,1,0,0,1,1,Qassim Province,Yes,Family member,18,Female,6,1
+1,1,0,0,0,0,0,1,1,1,Aseer Province,Yes,Family member,15,Female,5,1
+0,1,1,1,1,0,0,0,0,0,Northern Borders Province,Yes,Family member,17,Male,4,1
+0,1,1,1,1,1,1,1,1,1,Al Jawf Province,No,Family member,20,Female,9,1
+1,0,0,0,0,0,0,0,0,0,Eastern Province,No,Family member,18,Male,1,0
+1,1,1,1,1,1,1,1,1,1,Tabuk Province,Yes,Family member,16,Female,10,1
+0,0,0,0,0,1,0,1,0,1,Ha'il Province,Yes,Family member,20,Female,3,0
+0,1,1,1,1,1,1,1,1,1,Northern Borders Province,No,Family member,18,Male,9,1
+1,1,1,1,0,0,1,1,1,1,Tabuk Province,No,Family member,25,Female,8,1
+1,1,0,1,1,1,1,0,1,1,Northern Borders Province,Yes,Family member,36,Female,8,1
+0,1,1,1,1,0,0,1,1,1,Qassim Province,No,Family member,28,Male,7,1
+1,1,1,1,1,1,1,1,1,1,Najran Province,No,Family member,30,Male,10,1
+1,0,1,1,1,0,1,0,0,1,Tabuk Province,No,Family member,32,Male,6,1
+1,0,1,1,0,0,0,0,0,0,Riyadh Province,No,Other,24,Female,3,0
+0,0,0,1,0,0,0,0,0,1,Madinah Province,No,Other,36,Female,2,0
+1,1,1,1,1,0,0,1,0,1,Madinah Province,No,Other,27,Female,7,1
+1,1,0,0,0,0,0,0,0,0,Riyadh Province,No,Other,30,Female,2,0
+1,0,0,1,0,0,0,0,0,0,Riyadh Province,No,Other,28,Female,2,0
+1,0,0,1,0,0,0,0,0,1,Riyadh Province,No,Other,35,Female,3,0
+1,0,0,0,0,0,0,0,0,1,Riyadh Province,No,Other,32,Female,2,0
+1,0,1,1,0,0,0,0,1,1,Riyadh Province,Yes,Family member,35,Female,5,1
+0,1,1,1,1,1,1,1,1,1,Riyadh Province,Yes,Family member,34,Female,9,1
+1,1,1,1,1,1,1,1,1,1,Riyadh Province,Yes,Family member,35,Female,10,1
+1,0,0,0,0,0,0,1,0,0,Riyadh Province,No,Other,34,Female,2,0
+1,1,0,1,1,1,0,0,0,1,Riyadh Province,No,Other,36,Female,6,1
+0,1,1,1,1,1,1,0,1,1,Riyadh Province,Yes,Other,32,Female,8,1
+1,1,1,1,1,1,1,1,1,1,Riyadh Province,Yes,Other,36,Female,10,1
+0,1,1,1,1,1,1,1,1,1,Riyadh Province,Yes,Other,36,Female,9,1
+0,1,1,1,1,1,1,1,1,1,Riyadh Province,Yes,Other,35,Female,9,1
+0,1,1,1,1,1,1,1,1,1,Riyadh Province,No,Other,36,Female,9,1
+0,1,1,1,1,1,1,1,1,1,Riyadh Province,No,Family member,36,Female,9,1
+0,1,1,1,1,1,1,1,0,1,Riyadh Province,No,Other,35,Female,8,1
+0,1,0,1,1,1,1,1,0,1,Riyadh Province,No,Other,35,Female,7,1
+0,1,1,1,1,1,1,0,0,1,Riyadh Province,No,Other,35,Female,7,1
+0,1,1,1,1,1,1,1,0,1,Riyadh Province,No,Other,35,Female,8,1
+0,1,1,1,1,1,1,1,0,1,Riyadh Province,No,Other,33,Female,8,1
+0,1,1,1,1,1,1,1,0,1,Riyadh Province,No,Family member,28,Female,8,1
+0,1,1,1,1,1,1,1,0,1,Riyadh Province,No,Family member,36,Female,8,1
+0,1,1,1,1,1,1,1,1,1,Riyadh Province,No,Family member,36,Female,9,1
+0,1,1,1,1,1,1,1,1,1,Riyadh Province,No,Family member,33,Female,9,1
+1,1,1,1,1,1,1,1,1,1,Riyadh Province,No,Family member,34,Female,10,1
+1,1,1,1,1,1,1,1,1,1,Riyadh Province,No,Family member,34,Female,10,1
+1,1,1,1,1,1,1,1,1,1,Riyadh Province,No,Family member,33,Female,10,1
+1,1,1,1,1,1,1,1,1,1,Riyadh Province,No,Family member,35,Female,10,1
+1,1,1,1,1,1,1,1,1,1,Riyadh Province,No,Other,30,Female,10,1
+1,1,1,1,1,1,1,1,1,1,Riyadh Province,No,Family member,32,Female,10,1
+1,1,1,1,1,1,1,1,1,1,Riyadh Province,No,Family member,30,Female,10,1
+1,1,1,1,1,1,1,1,1,1,Riyadh Province,No,Family member,35,Female,10,1
+1,1,1,1,1,1,1,1,1,1,Riyadh Province,No,Family member,33,Female,10,1
+1,1,1,1,1,1,1,1,1,1,Riyadh Province,No,Family member,31,Female,10,1
+0,1,1,1,1,1,1,1,1,1,Al Baha Province,No,Family member,18,Female,9,1
+1,0,0,0,0,0,0,0,0,0,Aseer Province,Yes,Family member,20,Male,1,0
+1,0,1,0,1,0,0,1,1,1,Madinah Province,Yes,Family member,15,Male,6,1
+1,1,1,1,1,0,0,0,0,0,Northern Borders Province,No,Family member,19,Male,5,1
+1,1,1,0,0,1,1,0,1,0,Northern Borders Province,No,Family member,21,Female,6,1
+1,1,1,1,1,0,1,1,1,1,Aseer Province,Yes,Family member,19,Male,9,1
+1,0,1,1,0,0,0,1,1,0,Tabuk Province,Yes,Family member,19,Male,5,1
+1,0,1,0,1,1,1,0,1,0,Riyadh Province,Yes,Family member,12,Female,6,1
+1,1,1,1,1,1,1,1,1,1,Eastern Province,Yes,Family member,16,Male,10,1
+1,1,1,1,1,1,0,1,1,1,Makkah Province,No,Other,18,Male,9,1
+1,0,1,1,1,0,1,1,0,0,Madinah Province,No,Family member,19,Male,6,1
+1,1,1,0,0,1,1,0,1,0,Northern Borders Province,No,Family member,19,Male,6,1
+0,1,1,1,1,1,1,1,1,1,Makkah Province,Yes,Family member,21,Female,9,1
+1,1,1,1,0,1,1,1,1,1,Ha'il Province,No,Family member,25,Female,9,1
+1,1,1,1,0,0,0,0,0,1,Jizan Province,No,Other,25,Female,5,1
+0,1,1,1,1,1,1,1,1,1,Qassim Province,Yes,Family member,27,Female,9,1
+0,1,1,1,0,0,0,1,1,1,Al Jawf Province,Yes,Family member,33,Male,6,1
+0,1,1,1,1,1,1,1,1,1,Riyadh Province,Yes,Family member,12,Female,9,1
+1,0,1,1,0,1,1,0,0,0,Makkah Province,Yes,Family member,13,Female,5,1
+0,0,1,0,0,1,1,1,1,1,Riyadh Province,No,Family member,36,Female,6,1
+0,1,1,1,0,0,0,1,1,1,Ha'il Province,Yes,Family member,18,Female,6,1
+0,0,1,1,0,1,0,1,0,1,Eastern Province,No,Family member,25,Female,5,1
+0,1,1,1,1,1,0,0,1,1,Aseer Province,No,Other,21,Female,7,1
+1,1,1,1,1,1,1,1,1,1,Makkah Province,Yes,Family member,28,Male,10,1
+1,1,1,0,1,1,0,1,0,1,Eastern Province,Yes,Other,24,Female,7,1
+1,0,0,0,0,0,0,0,0,0,Najran Province,No,Family member,17,Male,1,0
+1,1,1,1,1,1,1,1,1,1,Al Baha Province,No,Family member,33,Female,10,1
+1,1,1,1,1,1,1,1,1,1,Jizan Province,No,Family member,14,Female,10,1
+1,0,0,0,0,0,1,0,1,0,Eastern Province,No,Family member,12,Male,3,0
+0,1,1,0,0,1,1,1,0,1,Ha'il Province,No,Family member,17,Female,6,1
+1,0,0,0,0,0,0,0,0,0,Riyadh Province,No,Other,19,Female,1,0
+1,0,0,0,0,0,0,0,0,0,Najran Province,No,Other,30,Female,1,0
+1,1,1,1,1,0,0,1,0,1,Al Jawf Province,No,Family member,23,Male,7,1
+1,0,1,1,1,1,1,0,0,0,Eastern Province,No,Other,21,Male,6,1
+1,1,1,1,1,1,1,1,1,1,Eastern Province,No,Other,19,Female,10,1
+1,1,1,0,1,1,1,1,1,0,Eastern Province,No,Family member,13,Female,8,1
+1,1,1,0,1,1,0,0,0,0,Northern Borders Province,No,Family member,16,Male,5,1
+1,1,1,1,1,1,1,1,1,1,Ha'il Province,No,Family member,25,Female,10,1
+1,1,1,1,1,1,1,1,1,1,Riyadh Province,No,Other,31,Female,10,1
+1,1,1,0,1,1,1,0,0,1,Qassim Province,Yes,Family member,35,Female,7,1
+0,1,1,1,1,0,0,0,0,0,Aseer Province,No,Other,28,Male,4,1
+1,0,1,1,1,0,1,0,0,0,Najran Province,Yes,Other,15,Female,5,1
+1,1,1,1,1,1,1,1,1,1,Riyadh Province,No,Family member,35,Male,10,1
+1,0,1,1,1,1,0,0,1,0,Madinah Province,No,Family member,24,Female,6,1
+1,1,1,0,1,0,1,1,0,1,Jizan Province,No,Family member,15,Female,7,1
+0,0,0,0,1,1,1,1,1,0,Tabuk Province,No,Family member,27,Female,5,1
+1,1,1,1,1,1,1,1,1,1,Eastern Province,No,Family member,17,Female,10,1
+1,1,1,0,1,1,0,1,0,1,Najran Province,No,Other,27,Male,7,1
+1,0,0,0,0,0,0,0,0,0,Riyadh Province,No,Family member,13,Female,1,0
+1,1,1,1,1,1,1,1,1,1,Madinah Province,Yes,Family member,26,Female,10,1
+1,1,1,1,1,1,0,0,1,1,Makkah Province,No,Other,36,Male,8,1
+1,1,1,1,1,1,1,1,0,0,Riyadh Province,No,Family member,12,Female,8,1
+1,1,1,1,1,1,1,1,1,1,Riyadh Province,Yes,Other,36,Male,10,1
+1,1,1,1,1,1,1,1,1,1,Makkah Province,Yes,Family member,13,Female,10,1
+1,1,1,1,0,1,0,1,0,0,Tabuk Province,Yes,Family member,17,Female,6,1
+1,1,1,1,1,1,1,1,1,1,Ha'il Province,No,Family member,19,Male,10,1
+1,0,1,1,1,0,1,1,1,1,Eastern Province,No,Family member,21,Female,8,1
+1,1,1,1,1,1,1,1,1,1,Tabuk Province,Yes,Family member,29,Male,10,1
+1,1,1,1,1,1,0,1,1,1,Northern Borders Province,No,Other,15,Female,9,1
+1,0,1,0,1,1,1,1,1,1,Riyadh Province,Yes,Other,25,Female,8,1
+1,1,1,1,1,1,0,0,0,0,Madinah Province,No,Family member,19,Male,6,1
+1,0,0,0,0,0,0,0,0,0,Eastern Province,No,Family member,17,Female,1,0
+1,1,1,1,0,1,1,1,0,1,Aseer Province,Yes,Family member,27,Male,8,1
+1,1,1,1,1,1,1,1,1,1,Jizan Province,No,Other,19,Male,10,1
+1,1,1,0,1,1,1,0,1,1,Makkah Province,No,Other,28,Male,8,1
+1,0,0,0,0,0,0,0,0,0,Jizan Province,Yes,Family member,33,Female,1,0
+1,1,0,1,1,1,0,1,1,1,Makkah Province,No,Family member,14,Female,8,1
+1,1,1,0,1,0,1,0,1,1,Makkah Province,No,Family member,35,Female,7,1
+1,1,1,0,1,1,1,1,0,1,Al Jawf Province,No,Family member,16,Female,8,1
+0,1,1,1,1,1,1,1,1,1,Al Jawf Province,No,Family member,21,Female,9,1
+1,1,1,0,1,1,0,1,1,0,Al Baha Province,No,Family member,33,Female,7,1
+1,1,0,1,1,0,0,1,1,1,Qassim Province,Yes,Other,18,Male,7,1
+0,1,1,0,0,0,0,0,0,1,Makkah Province,No,Family member,36,Male,3,0
+0,0,0,1,0,0,0,0,0,0,Riyadh Province,Yes,Family member,30,Female,1,0
+1,0,1,1,1,1,1,0,1,1,Riyadh Province,No,Family member,22,Female,8,1
+1,0,1,0,1,1,1,1,1,1,Riyadh Province,Yes,Family member,36,Female,8,1
+1,1,0,0,0,0,1,1,1,1,Riyadh Province,Yes,Family member,12,Female,6,1
+1,1,1,1,1,1,1,1,1,1,Al Jawf Province,Yes,Family member,36,Male,10,1
+1,1,0,1,1,0,0,1,1,1,Makkah Province,No,Other,13,Female,7,1
+0,1,1,0,1,1,1,0,1,1,Makkah Province,No,Family member,33,Female,7,1
+1,1,1,1,0,1,0,1,0,1,Madinah Province,Yes,Family member,14,Female,7,1
+1,0,0,0,0,0,0,0,0,0,Tabuk Province,No,Family member,18,Male,1,0
+0,1,1,1,1,1,0,1,1,0,Qassim Province,Yes,Family member,18,Female,7,1
+0,1,1,1,1,1,1,1,1,1,Aseer Province,No,Other,20,Female,9,1
+0,1,1,1,1,0,0,1,1,1,Qassim Province,No,Other,16,Female,7,1
+1,1,1,0,1,1,0,0,1,1,Tabuk Province,Yes,Other,17,Female,7,1
+1,0,1,0,1,0,0,0,0,0,Ha'il Province,No,Family member,22,Female,3,0
+1,1,1,0,1,0,0,0,1,1,Makkah Province,No,Family member,23,Female,6,1
+1,0,1,1,1,1,1,1,1,1,Al Jawf Province,No,Other,12,Female,9,1
+1,0,0,0,0,0,0,0,0,0,Riyadh Province,No,Family member,13,Male,1,0
+0,1,1,1,1,1,1,1,1,1,Madinah Province,No,Family member,14,Male,9,1
+1,1,1,1,1,1,1,1,1,1,Qassim Province,No,Family member,16,Male,10,1
+0,1,1,0,1,1,1,0,1,1,Najran Province,No,Family member,16,Female,7,1
+1,0,1,0,1,1,0,1,1,0,Aseer Province,No,Family member,18,Male,6,1
+0,0,1,0,0,0,1,1,1,1,Al Baha Province,No,Family member,36,Female,5,1
+0,1,1,1,1,1,1,1,1,1,Tabuk Province,Yes,Family member,19,Female,9,1
+1,0,0,0,1,1,0,0,1,1,Aseer Province,No,Family member,21,Male,5,1
+0,1,1,0,1,0,1,1,1,0,Eastern Province,No,Family member,24,Male,6,1
+1,1,1,1,0,0,1,0,1,1,Makkah Province,Yes,Family member,22,Male,7,1
+1,1,0,1,0,0,0,0,0,1,Makkah Province,No,Family member,30,Female,4,1
+0,1,1,1,1,1,1,1,1,1,Riyadh Province,No,Family member,12,Male,9,1
+1,1,1,0,1,1,1,0,1,1,Tabuk Province,Yes,Family member,35,Male,8,1
+1,1,0,1,0,1,0,1,1,0,Jizan Province,No,Family member,20,Female,6,1
+1,0,1,1,1,0,0,0,1,1,Madinah Province,No,Family member,26,Female,6,1
+1,0,0,1,1,0,0,0,0,0,Makkah Province,No,Family member,28,Female,3,0
+1,1,1,0,0,1,1,1,1,0,Madinah Province,Yes,Family member,21,Female,7,1
+1,1,0,0,0,0,0,1,0,1,Madinah Province,No,Family member,34,Male,4,1
+1,0,1,0,0,1,0,1,1,1,Ha'il Province,No,Family member,16,Male,6,1
+1,0,1,1,0,0,0,0,0,0,Madinah Province,No,Family member,25,Female,3,0
+1,1,1,1,0,1,0,1,0,1,Qassim Province,No,Family member,13,Male,7,1
+1,0,1,0,1,1,1,1,0,1,Qassim Province,Yes,Family member,17,Female,7,1
+1,0,1,1,1,0,1,1,1,1,Makkah Province,No,Other,21,Male,8,1
+1,1,1,0,1,0,1,1,1,1,Jizan Province,No,Family member,29,Female,8,1
+0,1,1,1,1,0,0,1,1,0,Aseer Province,No,Family member,26,Male,6,1
+0,1,0,1,1,0,1,0,1,1,Al Baha Province,No,Family member,36,Male,6,1
+0,1,1,1,0,1,0,1,1,1,Qassim Province,No,Family member,24,Male,7,1
+0,1,1,1,1,1,1,1,1,1,Eastern Province,No,Family member,31,Male,9,1
+0,1,0,0,0,0,0,0,0,0,Jizan Province,Yes,Family member,33,Female,1,0
+1,0,0,0,0,0,0,0,0,1,Makkah Province,Yes,Family member,29,Female,2,0
+1,0,0,0,0,0,0,0,0,0,Makkah Province,Yes,Family member,19,Male,1,0
+1,1,1,0,0,0,0,0,1,0,Makkah Province,No,Family member,16,Female,4,1
+1,0,1,0,1,0,1,0,0,1,Makkah Province,No,Family member,36,Male,5,1
+1,1,1,1,1,1,0,0,1,1,Makkah Province,No,Family member,24,Male,8,1
+1,0,0,0,0,0,0,1,0,1,Makkah Province,No,Other,25,Female,3,0
+0,1,1,1,1,1,1,0,1,0,Tabuk Province,No,Other,27,Female,7,1
+1,0,0,0,1,1,0,0,0,0,Makkah Province,No,Family member,20,Female,3,0
+1,0,0,0,1,1,1,0,0,1,Makkah Province,No,Family member,34,Male,5,1
+0,0,0,0,0,0,0,0,0,0,Ha'il Province,No,Family member,19,Female,0,0
+1,0,0,1,1,0,0,0,0,1,Makkah Province,No,Other,19,Female,4,1
+1,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,28,Male,1,0
+1,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,19,Female,1,0
+1,1,1,1,1,0,0,1,1,1,Makkah Province,Yes,Family member,30,Female,8,1
+1,1,1,1,0,1,1,1,1,1,Makkah Province,No,Family member,18,Female,9,1
+1,1,0,1,1,1,0,0,0,1,Ha'il Province,No,Family member,25,Male,6,1
+1,1,0,1,0,1,1,1,1,1,Riyadh Province,No,Family member,35,Male,8,1
+1,1,0,1,1,1,1,0,1,1,Riyadh Province,No,Family member,36,Female,8,1
+1,1,0,0,0,0,0,1,0,0,Makkah Province,No,Family member,17,Male,3,0
+1,1,0,1,1,1,1,1,1,1,Riyadh Province,Yes,Family member,27,Female,9,1
+1,1,0,1,1,1,1,1,1,1,Riyadh Province,No,Family member,28,Female,9,1
+1,1,0,1,1,1,1,1,1,1,Riyadh Province,Yes,Other,35,Male,9,1
+1,1,0,1,1,0,0,0,1,1,Eastern Province,Yes,Family member,29,Female,6,1
+1,1,0,1,1,1,1,1,1,1,Riyadh Province,No,Family member,27,Female,9,1
+1,0,0,0,1,0,0,1,0,1,Makkah Province,No,Family member,29,Male,4,1
+1,1,0,1,1,1,1,1,1,1,Eastern Province,Yes,Other,31,Female,9,1
+1,1,0,1,1,1,1,1,1,1,Eastern Province,No,Family member,28,Female,9,1
+1,1,0,1,0,1,1,1,1,1,Eastern Province,No,Family member,36,Male,8,1
+1,1,0,1,1,1,1,1,1,1,Riyadh Province,No,Family member,25,Male,9,1
+1,1,0,1,1,1,1,1,1,1,Eastern Province,Yes,Family member,28,Male,9,1
+1,1,1,1,1,1,1,1,1,1,Riyadh Province,No,Family member,35,Male,10,1
+1,1,1,1,1,1,1,1,1,1,Eastern Province,No,Other,35,Female,10,1
+1,1,1,1,1,1,1,0,1,1,Eastern Province,No,Family member,22,Female,9,1
+1,1,1,1,1,1,1,1,1,1,Riyadh Province,No,Family member,30,Female,10,1
+1,1,1,1,1,1,1,1,1,1,Riyadh Province,No,Family member,24,Male,10,1
+1,1,1,1,0,0,1,1,1,1,Eastern Province,No,Other,27,Male,8,1
+1,1,1,1,1,0,1,1,1,1,Eastern Province,No,Other,20,Male,9,1
+1,1,1,1,1,1,0,1,1,1,Qassim Province,No,Family member,20,Male,9,1
+0,1,1,1,1,1,1,1,1,1,Qassim Province,No,Family member,26,Female,9,1
+0,1,1,1,1,1,1,1,1,1,Eastern Province,No,Other,20,Female,9,1
+0,1,1,1,1,1,1,1,1,1,Riyadh Province,No,Family member,36,Female,9,1
+0,1,1,1,1,1,1,1,1,1,Eastern Province,No,Family member,36,Male,9,1
+1,1,1,1,1,1,1,1,1,1,Eastern Province,No,Family member,27,Female,10,1
+1,1,1,1,1,1,1,1,1,1,Eastern Province,No,Family member,34,Male,10,1
+0,1,1,1,1,1,1,1,1,1,Eastern Province,Yes,Other,27,Female,9,1
+0,1,1,1,1,1,1,1,1,1,Eastern Province,No,Family member,30,Male,9,1
+0,1,1,1,1,1,1,1,1,1,Riyadh Province,No,Other,24,Female,9,1
+1,1,1,1,1,1,1,1,0,1,Al Jawf Province,Yes,Family member,35,Female,9,1
+1,0,1,1,1,1,1,1,0,1,Tabuk Province,No,Family member,16,Male,8,1
+0,0,0,0,0,1,1,0,1,0,Tabuk Province,No,Family member,24,Female,3,0
+1,1,1,0,0,0,1,1,0,1,Ha'il Province,No,Family member,23,Male,6,1
+0,1,1,0,1,1,1,0,0,0,Eastern Province,Yes,Family member,17,Male,5,1
+1,1,1,1,1,0,0,1,1,1,Madinah Province,No,Family member,36,Male,8,1
+1,1,1,0,1,1,1,1,1,0,Qassim Province,No,Family member,26,Female,8,1
+1,0,1,0,0,1,1,1,1,0,Jizan Province,Yes,Family member,17,Female,6,1
+1,0,1,0,1,1,1,0,1,0,Eastern Province,Yes,Family member,15,Male,6,1
+1,0,0,0,0,0,0,0,0,0,Tabuk Province,No,Other,19,Female,1,0
+1,1,0,0,0,0,1,0,1,0,Najran Province,Yes,Family member,12,Female,4,1
+1,0,1,1,0,1,0,1,0,1,Northern Borders Province,Yes,Family member,18,Female,6,1
+0,1,0,1,1,1,1,1,1,1,Jizan Province,Yes,Family member,16,Male,8,1
+1,1,1,0,1,1,1,1,1,0,Riyadh Province,Yes,Other,36,Male,8,1
+1,1,1,1,1,0,1,1,1,1,Al Jawf Province,No,Family member,17,Female,9,1
+1,0,1,1,0,1,1,1,1,1,Jizan Province,No,Family member,18,Female,8,1
+1,0,1,0,1,0,1,0,1,0,Al Baha Province,Yes,Family member,35,Female,5,1
+1,0,0,0,0,0,1,1,1,1,Jizan Province,Yes,Family member,29,Female,5,1
+1,0,1,1,1,0,0,1,1,1,Jizan Province,No,Family member,34,Female,7,1
+1,0,1,1,1,1,0,0,0,0,Ha'il Province,Yes,Family member,28,Male,5,1
+0,1,0,1,1,1,1,1,1,1,Eastern Province,Yes,Family member,34,Female,8,1
+1,1,1,1,0,1,1,0,1,1,Jizan Province,Yes,Family member,35,Female,8,1
+0,1,1,1,1,1,1,1,1,1,Northern Borders Province,Yes,Family member,31,Male,9,1
+1,1,1,0,1,0,1,1,1,0,Al Jawf Province,Yes,Family member,35,Male,7,1
+1,1,1,1,1,1,1,1,1,1,Jizan Province,Yes,Family member,33,Male,10,1
+1,1,1,0,1,1,0,1,1,1,Tabuk Province,No,Family member,13,Female,8,1
+0,1,1,1,1,1,1,1,1,1,Al Jawf Province,Yes,Other,22,Female,9,1
+1,1,1,1,1,1,1,0,0,0,Jizan Province,Yes,Family member,23,Male,7,1
+0,1,0,0,0,0,0,0,0,0,Al Baha Province,Yes,Family member,19,Male,1,0
+1,1,1,0,1,0,1,1,1,1,Najran Province,No,Other,27,Male,8,1
+1,1,1,1,1,1,1,1,1,1,Jizan Province,Yes,Family member,36,Female,10,1
+1,1,1,1,1,1,1,1,0,0,Makkah Province,No,Family member,32,Female,8,1
+0,1,1,1,1,1,1,1,1,1,Riyadh Province,No,Family member,30,Male,9,1
+1,0,0,0,0,0,0,0,0,0,Makkah Province,No,Family member,20,Male,1,0
+1,1,1,1,1,1,1,1,1,1,Qassim Province,Yes,Family member,25,Male,10,1
+0,1,1,0,1,1,1,0,1,0,Madinah Province,No,Family member,35,Male,6,1
+0,1,1,1,0,0,1,1,1,1,Qassim Province,No,Other,32,Female,7,1
+1,1,1,1,1,1,0,0,1,0,Najran Province,Yes,Family member,29,Female,7,1
+0,1,1,1,1,1,0,0,0,0,Madinah Province,No,Family member,15,Female,5,1
+1,1,0,0,0,0,1,1,1,0,Jizan Province,Yes,Other,24,Female,5,1

@@ -1,0 +1,464 @@
+participant,sentence
+CHI,xxx . [+ trn]
+INV,Chi ?
+INV,you want a picture of Chi ?
+CHI,0 .
+CHI,0 .
+INV,&=gasp . [+ trn]
+INV,nose .
+INV,Chi's nose .
+CHI,xxx . [+ trn]
+INV,eye .
+CHI,0 . [+ trn]
+INV,another eye .
+CHI,0 .
+CHI,xxx . [+ trn]
+INV,draw hair .
+CHI,xxx . [+ trn]
+INV,draw legs .
+CHI,xxx . [+ trn]
+INV,legs .
+CHI,0 .
+INV,what is that ?
+CHI,xxx . [+ trn]
+CHI,xxx . [+ trn]
+INV,you want me to draw the sun ?
+INV,draw the sun ?
+INV,sun .
+CHI,xxx . [+ trn]
+INV,what do you want me to draw ?
+CHI,xxx . [+ trn]
+INV,a tree ?
+CHI,xxx . [+ trn]
+INV,a tree .
+INV,a tree .
+INV,a tree .
+CHI,0 .
+CHI,xxx . [+ trn]
+INV,what ?
+CHI,xxx . [+ trn]
+INV,a hat for Chi .
+INV,hat for Chi .
+CHI,xxx . [+ trn]
+INV,a bird in the tree ?
+INV,bird .
+CHI,xxx . [+ trn]
+INV,want me to put an eye ?
+CHI,0 .
+CHI,xxx . [+ trn]
+CHI,xxx . [+ trn]
+CHI,xxx . [+ trn]
+INV,a house ?
+INV,you want a house here ?
+INV,a house .
+INV,a door .
+CHI,xxx . [+ trn]
+CHI,0 . [+ trn]
+CHI,xxx . [+ trn]
+INV,what do you want ?
+CHI,xxx . [+ trn]
+INV,some arms for Chi .
+INV,hands .
+CHI,0 .
+INV,one arm .
+CHI,0 .
+INV,yyy .
+CHI,0 .
+CHI,0 .
+INV,let's draw some more pictures .
+INV,turn around .
+CHI,0 .
+INV,what are you looking at ?
+CHI,xxx . [+ trn]
+INV,a mouth .
+INV,yyy .
+CHI,xxx . [+ trn]
+INV,chimney ?
+INV,fireplace .
+INV,with smoke .
+INV,0 .
+CHI,xxx . [+ trn]
+CHI,0 .
+INV,can you make a window ?
+CHI,0 .
+CHI,xxx . [+ trn]
+CHI,xxx . [+ trn]
+CHI,xxx . [+ trn]
+INV,a shirt for Chi .
+INV,make a shirt and another arm .
+INV,0 .
+CHI,0 .
+CHI,xxx . [+ trn]
+INV,arm .
+INV,pants for Chi .
+INV,he has pants .
+INV,pants and shoes .
+CHI,0 .
+CHI,0 .
+INV,are you looking at Christie ?
+CHI,0 .
+CHI,xxx . [+ trn]
+INV,that's Christie .
+INV2,hey .
+INV,hi Christie .
+CHI,xxx . [+ trn]
+INV,hi Christie .
+CHI,xxx . [+ trn]
+INV,hi .
+INV2,hi .
+CHI,xxx . [+ trn]
+INV2,give it to Diane .
+CHI,0 .
+INV,you want me to draw ?
+CHI,xxx . [+ trn]
+INV,draw what ?
+CHI,xxx . [+ trn]
+INV,ears .
+INV,ears for Chi .
+CHI,0 .
+INV,is he wearing glasses ?
+CHI,xxx .
+CHI,xxx . [+ trn]
+INV,0 .
+CHI,xxx . [+ trn]
+INV,window .
+CHI,0 .
+INV,0 .
+INV,wanna erase ?
+CHI,xxx . [+ trn]
+INV,no ?
+CHI,xxx . [+ trn]
+INV,okay .
+INV,make a window .
+CHI,xxx . [+ trn]
+CHI,xxx . [+ trn]
+INV,the sun .
+CHI,xxx . [+ trn]
+CHI,xxx . [+ trn]
+INV,hair .
+INV,you want me to make some curly hair ?
+INV,it's not like Chi's hair is it ?
+CHI,0 .
+CHI,xxx .
+CHI,xxx . [+ trn]
+CHI,0 . [+ trn]
+INV,oh .
+INV,knock on the door .
+INV,good for you !
+INV,knock on the door .
+CHI,0 .
+CHI,xxx . [+ trn]
+INV,tree .
+CHI,xxx . [+ trn]
+CHI,xxx . [+ trn]
+CHI,xxx . [+ trn]
+INV,do you wanna erase that ?
+CHI,0 .
+INV,can you erase that ?
+CHI,0 .
+INV,you hafta turn it around .
+INV,0 .
+CHI,0 .
+INV,erase ?
+CHI,0 .
+INV,they're playing with the hats .
+INV,do you wanna play with the hats ?
+CHI,0 . [+ trn]
+INV,no ?
+CHI,0 . [+ trn]
+INV,erase .
+CHI,0 .
+INV,let's draw a flower .
+CHI,xxx . [+ trn]
+INV,the stem .
+CHI,0 .
+INV,a leaf .
+CHI,0 .
+CHI,0 .
+INV,yyy .
+INV,yyy .
+CHI,xxx . [+ trn]
+INV,what ?
+CHI,xxx . [+ trn]
+INV,want stripes on his shirt ?
+INV,stripes on his shirt .
+CHI,0 .
+INV,stripes .
+INV,stripes .
+CHI,0 .
+INV,do you want a kleenex ?
+INV,let's go get you a kleenex .
+INV,wipe your nose .
+INV,can you blow ?
+CHI,0 .
+INV,good job .
+INV,good job .
+INV,let's draw some more okay ?
+INV,what do you wanna draw ?
+CHI,xxx . [+ trn]
+CHI,xxx . [+ trn]
+INV,draw what ?
+INV,draw another chimney ?
+INV,two chimneys on this house .
+INV,two fireplaces .
+CHI,xxx . [+ trn]
+INV,what ?
+INV,a birdie ?
+CHI,xxx . [+ trn]
+INV,this is the sun .
+CHI,0 .
+INV,the sun .
+CHI,xxx .
+INV,drawing a circle .
+INV,let's go down here where there's some space .
+CHI,0 .
+INV,can you draw me a circle ?
+INV,draw a big circle .
+CHI,0 .
+INV,is that yyy ?
+INV,0 .
+CHI,0 .
+INV,who's here ?
+INV,who is this ?
+INV,say hi William .
+CHI,0 .
+INV,grass .
+INV,lots_of grass .
+CHI,0 .
+CHI,xxx . [+ trn]
+INV,is this a stop sign ?
+INV,somebody was making a stop sign .
+INV,let's write stop .
+INV,stop .
+INV,where is the house ?
+CHI,xxx .
+INV,it must be gone .
+INV,I think the house is gone .
+INV,someone else is playing with it .
+INV,you want the farm ?
+CHI,0 .
+INV,let's play with the farm .
+CHI,xxx . [+ trn]
+INV,no .
+CHI,0 [= voc] . [+ trn]
+INV,what ?
+CHI,xxx . [+ trn]
+INV,gas pump ?
+CHI,xxx . [+ trn]
+INV,0 .
+INV,let's move out_of the way of the closet .
+INV,let's move over here .
+INV,move over here ?
+CHI,0 .
+INV,the gas can .
+INV,see look at the numbers .
+INV,there you go .
+INV,look at that .
+INV,look at those numbers roll .
+INV,pretty expensive gas isn't it ?
+INV,0 .
+INV,0 .
+CHI,0 .
+INV,0 .
+CHI,0 .
+CHI,0 .
+CHI,0 .
+CHI,0 .
+INV,the numbers are rolling aren't they ?
+INV,yyy .
+INV,this is the yyy .
+INV,&-uh what else is here ?
+CHI,0 .
+INV,here are some tools .
+CHI,0 .
+INV,screwdriver .
+CHI,0 .
+INV,and the pressure gauge .
+CHI,0 .
+CHI,0 .
+CHI,0 .
+INV,a drum ?
+CHI,0 .
+CHI,0 .
+INV,&=gasp . [+ trn]
+INV,there they go .
+CHI,0 .
+CHI,0 .
+CHI,xxx .
+INV,around .
+INV,going around .
+INV,0 .
+CHI,xxx . [+ trn]
+INV,that's okay .
+CHI,0 .
+INV,0 .
+CHI,0 .
+CHI,0 .
+CHI,0 .
+INV,0 .
+CHI,0 .
+INV,0 .
+INV,0 .
+INV,what's in there ?
+CHI,0 .
+CHI,0 .
+CHI,0 .
+INV,what's in there ?
+CHI,0 .
+INV,&-uh .
+INV,the horse .
+INV,the horse is in there .
+CHI,0 .
+INV,two horses .
+INV,one horse .
+INV,two horse .
+INV,what else do we have ?
+INV,the cow .
+INV,he makes this sound .
+INV,listen .
+INV,the cow says moo .
+INV,the pig and the sheep are in the trough .
+CHI,0 .
+INV,you took the pig out .
+CHI,0 .
+INV,you took the sheep out .
+CHI,0 .
+INV,cow's too big .
+INV,she's too big isn't she ?
+CHI,xxx . [+ trn]
+INV,oh oh .
+INV,the cow is out .
+INV,&=gasp . [+ trn]
+CHI,xxx . [+ trn]
+INV,the sheep is in .
+INV,let's put the puppy dog in with the sheep .
+INV,they're in the trough .
+CHI,0 .
+INV,nobody's in there .
+INV,who's in the barn ?
+CHI,no [?] .
+INV,what are you looking at ?
+INV,do you want this ?
+INV,the box .
+INV,the box .
+INV,what's in there ?
+CHI,0 .
+INV,hi Steven .
+CHI,0 .
+INV,Steven came to see you .
+INV,0 .
+INV,Chi .
+INV,who's in here ?
+INV,who's in the silo ?
+CHI,0 .
+CHI,0 .
+INV,who's in there ?
+CHI,xxx . [+ trn]
+INV,&-uh .
+INV,it's the pig .
+INV,you're right .
+INV,the black pig right ?
+INV,is there another pig ?
+INV,or just one ?
+INV,just one .
+INV,and two horses .
+INV,let's make a pen for the horses .
+INV,do you like the farm ?
+CHI,xxx .
+INV,look here .
+INV,oh that's too little .
+INV,I put the puppy in .
+CHI,0 .
+INV,here's the black pig .
+INV,here's the black pig .
+CHI,0 .
+INV,can he go in there too ?
+CHI,xxx . [+ trn]
+CHI,0 .
+INV,yeah you can get him in .
+CHI,xxx .
+CHI,xxx .
+INV,like that .
+INV,oops .
+INV,it's down .
+INV,put the pig in there .
+CHI,0 .
+INV,0 .
+CHI,0 .
+INV,who's in here ?
+CHI,0 .
+INV,who's in the silo ?
+CHI,0 .
+CHI,0 .
+CHI,xxx . [+ trn]
+INV,&=gasp . [+ trn]
+INV,it's a white sheep .
+INV,the white sheep is in the silo .
+INV,0 .
+INV,who's in there now ?
+INV,no one .
+CHI,xxx .
+INV,&-uh nobody .
+INV,you put someone in there .
+CHI,0 .
+INV,Chi .
+INV,let's put this toy away .
+INV,let's put it away .
+CHI,0 .
+INV,&-uh Chi .
+INV,what's the cow doing over here ?
+INV,what's the cow doing over here ?
+CHI,0 .
+INV,the cow's in the gas station .
+INV,the numbers are going around .
+CHI,0 .
+INV,is somebody in here ?
+INV,it stopped .
+INV,wind it up .
+INV,Chi .
+INV,wind it up .
+CHI,0 .
+INV,more .
+INV,wind it up more .
+CHI,0 .
+INV,more .
+INV,wind it up .
+CHI,0 .
+INV,yyy .
+CHI,xxx . [+ trn]
+INV,&-uh oh .
+INV,look .
+INV,who's in there ?
+CHI,0 .
+INV,who's in there ?
+CHI,xxx . [+ trn]
+INV,&=gasp . [+ trn]
+INV,puppy dog .
+INV,puppy dog .
+INV,is he crawling ?
+CHI,0 .
+INV,0 .
+CHI,0 .
+CHI,xxx . [+ trn]
+INV,&-uh .
+INV,it's a pig .
+CHI,xxx .
+INV,a pig .
+CHI,xxx .
+INV,the pig's in there .
+INV,the other pig's in there .
+INV,two of them now .
+INV,here Steven .
+CHI,xxx . [+ trn]
+INV,hi Steven .
+INV,wind it up .
+INV,wind it up .
+INV,can you pull up the pump ?
+INV,what's happening ?
+CHI,xxx . [+ trn]
+INV,&-uh .
+INV,there you go .
+INV,look .
+INV,watch it spin .
+INV,around and around .
+INV,around and around .

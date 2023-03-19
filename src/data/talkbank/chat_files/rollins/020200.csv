@@ -1,0 +1,577 @@
+participant,sentence
+CHI,xxx . [+ trn]
+INV,you want the toy ?
+CHI,0 . [+ trn]
+INV,no toy .
+CHI,xxx . [+ trn]
+INV,you want the puzzle ?
+CHI,0 . [+ trn]
+INV,no puzzle .
+CHI,0 . [+ trn]
+INV,you want this puzzle ?
+CHI,0 . [+ trn]
+INV,no puzzle .
+CHI,xxx . [+ trn]
+INV,&=gasp . [+ trn]
+INV,you want the book ?
+CHI,0 . [+ trn]
+INV,oh there's the book for Chi .
+CHI,xxx . [+ trn]
+INV,the book Chi .
+INV,that's right .
+INV,okay .
+INV,let's sit down .
+CHI,xxx . [+ trn]
+INV,you've got the book .
+CHI,xxx . [+ trn]
+INV,there's the cookie .
+CHI,xxx . [+ trn]
+CHI,0 .
+INV,Chi there's the cookie monster .
+INV,there's the cookie &mon +/.
+CHI,0 [=! cries] . [+ trn]
+INV,here's your ball Chi .
+INV,here's your ball .
+CHI,xxx . [+ trn]
+INV,you want the book ?
+CHI,xxx . [+ trn]
+INV,you want me to stand up ?
+INV,okay I'll stand up .
+CHI,0 .
+CHI,xxx . [+ trn]
+INV,slide it open .
+INV,&=gasp there's Chi .
+INV,let's close it .
+INV,close it .
+CHI,0 .
+INV,roll the ball .
+INV,&=gasp . [+ trn]
+INV,roll it to Chi .
+CHI,0 .
+INV,roll it .
+INV,&=gasp &-uh oh .
+INV,it fell .
+CHI,0 .
+INV,oop .
+INV,&-uh oh .
+INV,&-uh oh .
+CHI,0 [=! cries] . [+ trn]
+INV,&-uh oh .
+INV,&-uh oh .
+INV,you hit your head Chi .
+INV,it's okay .
+CHI,0 .
+INV,roll it .
+INV,okay Chi .
+INV,let's get your ball .
+CHI,0 [=! cries] . [+ trn]
+INV,I'm putting it away Chi .
+INV,I'm putting it away .
+INV,it's gone .
+INV,it's gone .
+INV,I put it away Chi .
+CHI,0 [=! cries] . [+ trn]
+INV,here's your book .
+INV,here's your book .
+INV,here's your book .
+INV,there's Ernie .
+INV,&=gasp Chi .
+INV,the cookie monster .
+INV,there's the cookie monster .
+CHI,0 .
+INV,&=gasp there's big bird with a ball .
+CHI,0 [=! cries] . [+ trn]
+INV,there's big bird .
+INV,he has a ball .
+CHI,0 [=! cries] . [+ trn]
+INV,&=gasp there's the cookie monster Chi .
+INV,with a cookie .
+INV,he's eating .
+INV,he's eating the cookie .
+INV,turn the page .
+CHI,0 .
+CHI,0 .
+CHI,0 [=! cries] . [+ trn]
+INV,Chi .
+INV,look .
+INV,0 .
+INV,&=gasp there he is .
+INV,there's cookie monster with a cookie .
+INV,there he is .
+CHI,0 .
+INV,there's Ernie .
+CHI,xxx . [+ trn]
+INV,Ernie .
+CHI,xxx . [+ trn]
+INV,there's Ernie .
+CHI,xxx . [+ trn]
+INV,he's taking a bath .
+INV,Ernie's taking a bath .
+CHI,xxx . [+ trn]
+INV,Ernie .
+INV,he's taking a bath .
+INV,there's the water .
+INV,there's the duck .
+CHI,0 .
+INV,&=gasp . [+ trn]
+INV,the cookie monster .
+CHI,0 .
+CHI,xxx . [+ trn]
+INV,there he is again .
+INV,the cookie monster .
+INV,with a cookie .
+CHI,0 .
+CHI,0 [=! cries] . [+ trn]
+INV,let's get another book Chi .
+INV,let's get another book .
+CHI,0 [=! cries] . [+ trn]
+INV,here's another one .
+INV,another book for Chi .
+CHI,0 .
+CHI,xxx . [+ trn]
+INV,there's Ernie .
+INV,he's washing dishes .
+CHI,0 [=! cries] . [+ trn]
+INV,0 .
+CHI,0 [=! cries] . [+ trn]
+INV,0 .
+CHI,0 [=! cries] . [+ trn]
+INV,Ernie .
+CHI,0 .
+INV,and Bert .
+INV,he's drying the dishes .
+CHI,xxx . [+ trn]
+INV,he's drying +//.
+INV,Ernie .
+CHI,0 .
+INV,pull it open .
+INV,we needta turn it over Chi .
+INV,pull it open .
+CHI,0 .
+CHI,xxx . [+ trn]
+INV,Ernie .
+INV,washing the dishes .
+CHI,0 [=! cries] .
+INV,&-uh oh .
+INV,no book .
+INV,no book .
+INV,let's put (th)em back on the shelf .
+CHI,xxx . [+ trn]
+INV,on the shelf ?
+CHI,xxx . [+ trn]
+INV,okay .
+INV,we'll put them back .
+INV,bye bye book .
+CHI,xxx . [+ trn]
+INV,on the shelf ?
+INV,let's play with the blocks Chi .
+CHI,xxx . [+ trn]
+INV,here're the blocks .
+CHI,xxx . [+ trn]
+CHI,xxx . [+ trn]
+CHI,xxx . [+ trn]
+CHI,xxx . [+ trn]
+CHI,xxx . [+ trn]
+CHI,xxx . [+ trn]
+INV,you want me to stand up ?
+CHI,xxx . [+ trn]
+INV,stand up ?
+CHI,xxx . [+ trn]
+INV,okay Chi .
+INV,I'll stand up .
+INV,put the blocks away ?
+CHI,0 .
+INV,Chi .
+CHI,0 .
+INV,you wanna put the blocks away ?
+CHI,xxx . [+ trn]
+INV,no blocks .
+INV,put (th)em back on the shelf .
+CHI,0 .
+CHI,xxx . [+ trn]
+INV,here's another book for Chi .
+CHI,xxx . [+ trn]
+INV,here's another book .
+INV,&=gasp . [+ trn]
+INV,there's +/.
+INV,Chi .
+CHI,0 . [+ trn]
+INV,no book .
+INV,no book .
+CHI,xxx . [+ trn]
+CHI,xxx . [+ trn]
+INV,ready to go ?
+INV,let's go .
+INV,pull the door open .
+CHI,0 .
+CHI,0 .
+INV,0 .
+INV,yyy .
+INV,stretch Chi .
+INV,stretch .
+INV,that's right .
+CHI,0 . [+ trn]
+INV,stretch .
+INV,ready ?
+CHI,0 .
+INV,stretch the balloon .
+CHI,0 .
+INV,ready to blow ?
+CHI,0 . [+ trn]
+INV,you want me to blow ?
+INV,okay .
+INV,I'll blow it up .
+INV,0 .
+CHI,0 .
+INV,there it is .
+INV,smoosh .
+CHI,0 .
+INV,whoo .
+INV,all_gone .
+CHI,0 . [+ trn]
+INV,all_gone .
+CHI,0 .
+INV,blow it up ?
+CHI,0 .
+INV,Chi .
+INV,Chi .
+INV,Barbara's upset Chi .
+INV,she's upset .
+INV,it's okay .
+CHI,0 .
+INV,Chi .
+INV,want me to blow up the balloon again ?
+CHI,0 .
+CHI,xxx . [+ trn]
+INV,oh no balloon .
+CHI,0 . [+ trn]
+INV,want me to stand up ?
+CHI,xxx . [+ trn]
+INV,let's stand up .
+CHI,xxx . [+ trn]
+INV,let's walk .
+INV,let's walk Chi .
+CHI,xxx . [+ trn]
+INV,Chi .
+INV,pick you up .
+INV,pick you up .
+CHI,xxx . [+ trn]
+CHI,xxx . [+ trn]
+INV,0 .
+CHI,xxx .
+INV,xxx . [+ trn]
+CHI,0 .
+INV,Chi .
+INV,let's get the doll .
+CHI,xxx .
+INV,let's get the doll .
+INV,help me open the closet .
+INV,pull it open .
+INV,thank you Chi .
+INV,0 .
+CHI,0 .
+INV,there's the doll .
+INV,we needta get some food .
+CHI,0 .
+INV,you found her eyes .
+INV,here's the box with the food .
+CHI,0 .
+INV,we needta close the closet .
+INV,0 .
+INV,www .
+CHI,0 .
+CHI,xxx . [+ trn]
+INV,&=gasp the ice cream .
+INV,0 [=! smacks] . [+ trn]
+INV,there's Jamie .
+INV,www .
+CHI,xxx . [+ trn]
+INV,open ?
+CHI,xxx . [+ trn]
+INV,need some help opening ?
+CHI,xxx . [+ trn]
+INV,open the box .
+INV,there .
+INV,it's open .
+CHI,0 .
+INV,a hamburger .
+CHI,xxx .
+CHI,xxx . [+ trn]
+INV,need some help ?
+INV,push it down .
+INV,there .
+CHI,xxx . [+ trn]
+CHI,xxx . [+ trn]
+INV,you want it open ?
+CHI,xxx . [+ trn]
+INV,open ?
+CHI,xxx . [+ trn]
+INV,okay .
+INV,let's +...
+CHI,0 . [+ trn]
+CHI,xxx . [+ trn]
+INV,0 [=! smacks] . [+ trn]
+CHI,xxx . [+ trn]
+INV,open ?
+CHI,0 .
+INV,there .
+INV,it's open .
+CHI,0 .
+INV,push it closed .
+CHI,0 .
+CHI,0 .
+INV,0 .
+INV,Chi here's the carrot .
+CHI,0 .
+INV,dump it out .
+INV,I'll help open it Chi .
+INV,take it out .
+CHI,0 .
+INV,take it out .
+CHI,0 .
+INV,there's the ice cream .
+INV,here's another one .
+CHI,0 .
+INV,take it out .
+INV,good Chi .
+INV,you took all the ice cream out .
+INV,Chi I'm going to feed the baby .
+CHI,0 .
+INV,0 [=! smacks] . [+ trn]
+CHI,0 .
+INV,take it off .
+CHI,0 .
+INV,it's on your finger .
+CHI,0 .
+INV,it's on my finger Chi .
+INV,&=gasp it's on my finger .
+CHI,0 .
+CHI,0 .
+INV,do you wanna feed the baby ?
+INV,www .
+CHI,0 .
+INV,all done ?
+CHI,0 .
+INV,all done Chi ?
+CHI,0 . [+ trn]
+INV,ready to go ?
+CHI,0 . [+ trn]
+INV,want me to stand up ?
+CHI,0 .
+INV,okay .
+INV,I'll stand up .
+CHI,xxx .
+INV,you wanna go ?
+INV,push .
+INV,push the door open .
+CHI,0 .
+INV,there're the bubbles .
+INV,there's the bubbles Chi .
+CHI,0 .
+INV,www .
+INV,&-uh oh .
+INV,&-uh oh .
+INV,okay Chi .
+CHI,0 .
+INV,let's go in here .
+CHI,0 .
+INV,there's no light .
+INV,there's no light Chi .
+CHI,0 . [+ trn]
+INV,need some help ?
+INV,let's turn it on Chi .
+INV,okay .
+INV,pick you up .
+CHI,0 .
+INV,&=gasp . [+ trn]
+INV,there's the light .
+INV,good .
+INV,Chi you turned it on .
+CHI,0 .
+INV,where's the chalk ?
+INV,there .
+CHI,0 .
+INV,bang bang bang .
+INV,0 .
+INV,drawing on the board .
+CHI,0 .
+INV,0 .
+INV,color up high .
+CHI,0 .
+CHI,0 .
+INV,bang bang bang .
+INV,0 .
+CHI,0 .
+INV,0 .
+CHI,0 .
+INV,bang bang bang bang bang .
+CHI,0 .
+INV,0 .
+CHI,0 .
+INV,need the eraser ?
+CHI,0 .
+INV,0 .
+CHI,0 .
+INV,up high .
+INV,down low .
+CHI,0 .
+INV,you found another piece ?
+CHI,0 .
+INV,down low .
+CHI,0 .
+INV,you're coloring up high Chi .
+CHI,0 .
+INV,bang bang bang .
+INV,0 .
+CHI,0 .
+INV,0 .
+INV,here's another circle .
+CHI,0 .
+INV,bang bang bang .
+INV,Chi I'm going to go jump .
+INV,I'm all done .
+INV,put my chalk away .
+INV,put my chalk away .
+CHI,0 .
+INV,Chi .
+CHI,0 .
+INV,let's jump .
+CHI,0 .
+INV,let's jump Chi .
+CHI,0 .
+INV,Chi .
+CHI,0 .
+INV,you're still drawing .
+INV,ready to jump ?
+CHI,0 .
+INV,Chi .
+CHI,0 .
+INV,I'm jumping Chi .
+CHI,0 .
+INV,jumping .
+CHI,0 .
+INV,bang bang bang .
+CHI,0 .
+INV,0 .
+INV,ready to go ?
+INV,all done ?
+CHI,0 .
+INV,0 .
+INV,0 .
+INV,let's go Chi .
+CHI,0 .
+INV,let's go .
+INV,all done .
+INV,put the eraser away .
+CHI,0 .
+INV,let's go .
+CHI,0 .
+INV,Chi .
+INV,let's go .
+CHI,0 .
+INV,bang bang bang bang bang .
+INV,0 . [+ trn]
+CHI,0 .
+INV,wanna slide ?
+INV,wanna slide Chi ?
+CHI,xxx . [+ trn]
+INV,slide .
+INV,you need some help .
+CHI,0 .
+INV,you need some help Chi .
+INV,help you up .
+INV,up up .
+CHI,0 .
+INV,well stand .
+INV,up up .
+INV,okay .
+INV,sit Chi down .
+CHI,xxx . [+ trn]
+INV,the water .
+INV,that's right .
+INV,you pointed .
+INV,the water .
+CHI,xxx . [+ trn]
+INV,turn it on ?
+CHI,xxx . [+ trn]
+INV,ready for some water ?
+CHI,xxx . [+ trn]
+INV,0 .
+CHI,xxx . [+ trn]
+INV,ready for some water ?
+CHI,xxx . [+ trn]
+INV,there's the water .
+CHI,0 .
+INV,&mm .
+INV,feel the water .
+INV,&=gasp . [+ trn]
+INV,it stopped .
+INV,it stopped .
+CHI,0 .
+CHI,0 .
+INV,jump jump jump .
+INV,jump jump jump .
+INV,jump jump jump .
+INV,jump jump jump jump .
+INV,&=laughs .
+INV,jump .
+INV,&=gasp . [+ trn]
+INV,stop .
+CHI,0 .
+INV,&=gasp . [+ trn]
+INV,stop .
+INV,ready ?
+INV,one .
+INV,two .
+INV,three .
+INV,jump jump jump .
+INV,jump jump jump jump .
+INV,jump jump jump .
+INV,jump jump jump .
+INV,jump jump .
+INV,&=gasp . [+ trn]
+INV,I stopped .
+CHI,0 .
+INV,jump jump jump .
+INV,&=laughs .
+CHI,0 .
+INV,jump jump jump jump jump jump .
+CHI,0 .
+INV,jump jump jump .
+CHI,0 .
+INV,jump jump .
+CHI,0 .
+INV,all done ?
+CHI,0 .
+CHI,0 .
+INV,need some help ?
+INV,help Chi .
+INV,on the board .
+CHI,0 .
+INV,over .
+INV,you went over the board Chi .
+INV,I'm stepping over .
+CHI,xxx . [+ trn]
+INV,ready to go ?
+CHI,0 .
+CHI,xxx . [+ trn]
+INV,we needta turn the light off Chi .
+CHI,0 . [+ trn]
+INV,turn the light off .
+INV,okay .
+INV,pick you up .
+INV,flip it off .
+CHI,0 .
+INV,&=gasp . [+ trn]
+INV,they went off .
+CHI,0 .
+INV,&=gasp . [+ trn]
+INV,there they are .
+INV,the lights are on .
+CHI,0 .
+INV,&=gasp . [+ trn]
+INV,now they're off .
+CHI,0 .
+INV,ready to go ?
+INV,put Chi down .
+INV,open .

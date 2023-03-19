@@ -1,0 +1,392 @@
+participant,sentence
+INV,let's do the school bus puzzle .
+INV,where's the school bus ?
+INV,there it is .
+CHI,xxx . [+ trn]
+INV,it's right there .
+CHI,xxx . [+ trn]
+INV,oh .
+CHI,xxx . [+ trn]
+INV,it's right there .
+CHI,yyy [= jargon] .
+INV,let's do the puzzle .
+INV,let's do the puzzle .
+INV,I'll get it down .
+CHI,xxx . [+ trn]
+INV,oh .
+CHI,xxx .
+INV,I got it .
+CHI,xxx .
+INV,there's the puzzle .
+INV,let's dump it out .
+INV,let's dump it out .
+CHI,xxx . [+ trn]
+INV,dump it out .
+CHI,xxx . [+ trn]
+CHI,xxx . [+ trn]
+INV,it's Chi's turn .
+INV,where does that piece go ?
+CHI,0 .
+INV,how about this piece ?
+CHI,0 .
+INV,put it in .
+INV,in the puzzle .
+CHI,0 .
+INV,what's wrong with your finger ?
+INV,my turn .
+INV,Exp's turn .
+INV,I put a piece in .
+INV,Chi's turn .
+CHI,0 .
+INV,Chi's turn .
+CHI,0 .
+INV,very good .
+CHI,0 .
+INV,Exp's turn .
+INV,I'll put it in .
+INV,Chi's turn .
+CHI,0 .
+INV,put it in .
+INV,there you go .
+INV,there you go .
+INV,Exp's turn .
+INV,Chi's turn .
+CHI,0 .
+INV,put it in .
+INV,whose turn is it ?
+CHI,0 .
+INV,oh .
+INV,it's Chi's turn .
+CHI,0 .
+INV,Exp's turn .
+INV,it's Exp's turn .
+INV,I'll put it in .
+INV,it's Chi's turn .
+INV,here's a piece .
+CHI,0 . [+ trn]
+INV,here's a piece .
+INV,you want a piece in my hand ?
+CHI,xxx . [+ trn]
+CHI,xxx . [+ trn]
+CHI,xxx . [+ trn]
+INV,this piece ?
+CHI,0 .
+INV,okay .
+CHI,0 .
+INV,put it in .
+INV,put it in .
+CHI,0 . [+ trn]
+INV,what about that piece ?
+CHI,0 .
+INV,put it in .
+INV,I'll help .
+INV,push it in .
+INV,there it goes .
+CHI,0 . [+ trn]
+INV,it's my turn .
+INV,I'll put it in .
+CHI,0 .
+INV,now it's Chi's turn .
+CHI,0 .
+INV,put it in .
+CHI,0 . [+ trn]
+INV,whose turn is it ?
+CHI,0 . [+ trn]
+INV,it's my turn .
+INV,it's my turn .
+INV,I'll put it in .
+INV,it's Chi's turn .
+CHI,0 .
+INV,put it in .
+INV,yay .
+INV,we finished the puzzle .
+CHI,0 . [+ trn]
+INV,no more pieces .
+CHI,xxx . [+ trn]
+INV,let's dump it out .
+CHI,car car .
+INV,car ?
+INV,car .
+CHI,car .
+INV,car .
+CHI,yyy [= jargon] [>] .
+INV,bus [<] .
+INV,bus .
+INV,there's the bus .
+INV,let's dump it out .
+INV,let's dump it out .
+CHI,0 .
+INV,no more puzzle ?
+CHI,0 .
+INV,I'll put it up .
+CHI,xxx .
+INV,let's put it up .
+CHI,xxx .
+INV,pull .
+INV,I see Chi .
+CHI,0 .
+INV,pull .
+INV,there's Chi .
+CHI,0 .
+INV,where's Chi ?
+INV,where's Chi ?
+CHI,0 . [+ trn]
+INV,in there ?
+INV,0 .
+INV,there he is .
+CHI,0 .
+INV,close it .
+INV,where's Chi ?
+INV,where's Chi ?
+CHI,0 . [+ trn]
+INV,in there ?
+INV,0 .
+INV,there he is .
+CHI,0 .
+INV,close it up .
+INV,where's Chi ?
+CHI,0 . [+ trn]
+INV,knock knock knock .
+INV,knock knock knock .
+INV,where's Chi ?
+INV,0 .
+INV,&=gasp . [+ trn]
+INV,there he is .
+INV,I see him .
+CHI,0 .
+INV,close it up .
+CHI,0 . [+ trn]
+INV,where's Chi ?
+INV,knock knock .
+INV,where's Chi ?
+CHI,0 .
+INV,0 .
+INV,&=gasp . [+ trn]
+INV,there he is .
+INV,close it up .
+CHI,0 .
+CHI,0 . [+ trn]
+INV,knock knock knock .
+CHI,0 .
+INV,there's Chi .
+INV,close it up .
+CHI,0 . [+ trn]
+INV,knock knock knock .
+INV,where's Chi ?
+CHI,0 .
+INV,let's go for a walk .
+CHI,0 .
+INV,Chi you wanna go for a walk ?
+CHI,0 .
+INV,horse .
+INV,horsie .
+INV,neigh@o .
+INV,neigh@o .
+CHI,0 .
+INV,there's the horse .
+CHI,0 .
+INV,neigh@o .
+INV,neigh@o .
+CHI,0 .
+INV,horse .
+INV,horse .
+INV,neigh@o .
+CHI,0 .
+INV,put it in .
+INV,pull it out .
+CHI,0 .
+INV,put it in ?
+CHI,0 .
+INV,put it in .
+INV,pull it out .
+CHI,0 .
+INV,neigh@o .
+INV,horse .
+CHI,0 .
+INV,0 .
+INV,on the head .
+INV,on his head .
+CHI,0 .
+INV,out the door ?
+INV,let's go out the door .
+INV,open the door .
+CHI,0 .
+INV,open the door .
+CHI,xxx . [+ trn]
+INV,open the door .
+CHI,a [=? the] [*] door .
+INV,push the button .
+CHI,door .
+INV,open the door .
+CHI,xxx . [+ trn]
+INV,open the door .
+CHI,door .
+CHI,0 .
+INV,let's go for a walk .
+INV,let's go for a walk .
+INV,let's go out this door Chi .
+INV,let's go out this door .
+CHI,0 .
+INV,this door ?
+INV,open the door .
+INV,open the door .
+CHI,0 .
+INV,push the door .
+CHI,0 .
+INV,push the door .
+CHI,0 .
+INV,let's go for a walk .
+CHI,0 .
+INV,another door .
+CHI,0 .
+INV,let's go out this door .
+INV,Chi .
+INV,Chi .
+CHI,0 . [+ trn]
+INV,that door ?
+CHI,0 . [+ trn]
+INV,knock knock knock .
+INV,knock knock knock .
+CHI,0 .
+INV,open the door .
+INV,open the door .
+CHI,0 .
+CHI,0 . [+ trn]
+INV,what's in there ?
+CHI,0 .
+INV,open the door .
+CHI,0 .
+INV,0 .
+CHI,0 .
+INV,knock knock knock .
+INV,knock knock knock .
+CHI,0 .
+CHI,0 . [+ trn]
+INV,0 [>] . [+ trn]
+CHI,0 [<] . [+ trn]
+INV,knock knock knock .
+INV,let's go out that door .
+INV,let's go out that door .
+CHI,0 .
+INV,Chi .
+INV,knock knock knock .
+INV,knock knock knock .
+CHI,0 .
+INV,knock knock knock .
+INV,yyy .
+INV,let's go out this door .
+INV,knock knock knock .
+INV,Chi .
+CHI,0 . [+ trn]
+INV,what's in there ?
+INV,what's in there ?
+INV,0 .
+CHI,0 . [+ trn]
+INV,knock knock knock .
+CHI,0 . [+ trn]
+INV,open the door ?
+CHI,0 .
+INV,open the door ?
+INV,open the door ?
+CHI,0 . [+ trn]
+INV,knock knock knock .
+INV,knock knock knock .
+INV,knock knock knock .
+CHI,0 . [+ trn]
+INV,open the door ?
+INV,let's push the door .
+CHI,0 .
+CHI,xxx .
+CHI,xxx .
+CHI,xxx .
+INV,horse .
+CHI,xxx .
+INV,horse .
+CHI,xxx .
+INV,neigh@o .
+INV,neigh@o .
+CHI,0 .
+INV,neigh@o .
+INV,what's that ?
+CHI,0 .
+INV,good horse .
+CHI,0 .
+INV,0 .
+CHI,0 .
+CHI,0 .
+CHI,0 .
+INV,0 .
+INV,0 .
+CHI,0 .
+INV,can you get on the horse ?
+CHI,0 .
+INV,get on the horse .
+INV,get on the +...
+INV,oh you're standing on the horse .
+INV,oh .
+CHI,0 .
+INV,on the horse .
+CHI,0 .
+INV,shaky .
+INV,that horse is shaky .
+CHI,xxx .
+CHI,0 .
+INV,Chi's on the horse .
+INV,on the horse .
+CHI,0 .
+INV,here's mine .
+CHI,0 . [+ trn]
+CHI,0 .
+INV,on the horse .
+CHI,0 .
+INV,&-uh oh .
+CHI,0 .
+INV,&-uh oh .
+CHI,0 .
+INV,on the horse ?
+CHI,0 .
+INV,on the horse .
+INV,almost .
+CHI,0 .
+INV,Chi's on the horse .
+CHI,0 .
+INV,Chi's on the horse .
+CHI,0 .
+INV,off the horse .
+CHI,0 .
+INV,off the horse .
+CHI,0 .
+INV,go .
+INV,go .
+INV,yeah .
+CHI,0 [=! sneezes] .
+INV,whoa .
+INV,bless you .
+CHI,0 [=! sneezes] .
+INV,bless you .
+CHI,0 [=! sneezes] .
+INV,bless you .
+CHI,xxx .
+INV,go .
+INV,stop .
+CHI,0 .
+INV,go ?
+CHI,0 . [+ trn]
+INV,go ?
+CHI,0 .
+INV,go .
+INV,stop .
+INV,go ?
+CHI,0 . [+ trn]
+INV,go ?
+INV,go .
+INV,stop .
+CHI,0 .
+INV,stop .
+CHI,0 .
+INV,let's go out the door .
+INV,let's go out the door .
+CHI,0 .
+INV,off the horse .
+CHI,0 .
+INV,let's go out the door .
